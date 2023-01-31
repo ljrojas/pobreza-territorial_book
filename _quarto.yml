@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "pobreza-territorial_book"
-  author: "Jane Doe"
+  title: "Pobreza Territorial"
+  author: "Leonardo Rojas"
   date: "31-01-2023"
   chapters:
     - index.qmd
