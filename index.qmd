@@ -1,5 +1,3 @@
-# Preface {.unnumbered}
+# Prefacio {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Este documento busca presentar referencias y elementos centrales para el análisis de la pobreza desde una perspectiva territorial. En este sentido, se presenta un listado de dimensiones e indicadores que la literatura menciona como importantes para analizar este fenómeno y así tener mejores diagnósticos territoriales.
