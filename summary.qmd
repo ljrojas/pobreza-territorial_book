@@ -4,10 +4,139 @@ Resumen de enfoques, dimensiones e indicadores relevantes para el análisis de l
 
 ## Pobreza Monetaria
 
+Para el cálculo de la pobreza monetaria (y multidimensional) se requieren en general dos procesos: identificación y agregación. Es decir primero identificar las personas u hogares que se encuentran en condición de pobreza y luego agregarlos de forma correcta.
+
+Para la identificación de la pobreza monetaria se necesita definir un **umbral de ingresos**
+
+Este umbral depende a su vez de la canasta básica de consumo.
+
 ## Pobreza Multidimensional
+
+La pobreza Multidimensional se mide en Chile desde 2013 y cuenta con 4 dimensiones originalmente, a las que luego se agregó una quinta (Entorno y Redes).
+
+Estas dimensiones y sus indicadores son:
+
+### Educacion
+
+- Asistencia
+
+- Rezago Escolar
+
+- Escolaridad
+
+### Salud
+
+- Malnutrición de Niños y Niñas
+
+- Adscripción al Sistema de Salud
+
+- Atención
+
+### Trabajo y Seguridad Social
+
+- Ocupación
+
+- Seguridad Social
+
+- Jubilación
+
+### Vivienda (y entorno)
+
+- Habitabilidad
+
+- Servicios Básicos
+
+- Entorno
+
+### Entorno y Redes
+
+- Apoyo y participación social
+
+- Trato Igualitario
+
+- Seguridad
+
+## Dimensiones Faltantes
+
+Existe una rica discusión de elementos que no son comunmente capturados en los análisis tradicionales de pobreza, y que sin embargo son de vital importancia para el desarrollo y desenvolvimiento de las personas. 
+
+Referencias: OPHI, exclusion social, zavaleta
+
+- Empoderamiento y Agencia
+
+- Seguridad Física
+
+- Capacidad de ir por la vida sin sentir vergüenza
+
+- Calidad del empleo
+
+- Conectividad Social
+
+- Bienestar psicológico y subjetivo
 
 ## Pobreza Energética
 
+Una dimensión adicional de la pobreza tiene que ver con el acceso y uso a energías, las cuales son centrales para la inclusión ciudadana digital o para las tareas hogareñas más básicas. El no contar con fuentes seguras, no contaminantes y confiables puede ser una carencia y una limitante importante para el desarrollo de las personas.
+
+Algunos indicadores:
+
+- Gasto excesivo en energías
+
+- Vulnerabilidad y riesgo climático
+
+- Acceso a electricidad
+
+- Calefacción con fuente contaminante
+
+## Bienestar Social
+
+How's Life
+
+Encuesta Bienestar Social
+
+## Ruralidad
+
 ## Movilidad intergeneracional
 
+Una forma de revisar las oportunidades que entregan los territorios es el concepto de movilidad intergeneracional. Este indica la probabilidad de que una persona cuyos padres pertenezcan a un quintil de ingresos determinado pueda a lo largo de su vida mejorar su posición relativa, o mantenerse. Para evaluar esto se necesitan datos detallados de los ingresos de las personas y sus familias en el tiempo.
+
+Es así que altas probabilidades de mantenerse en el quintil de los padres estarían indicando baja movilidad intergeneracional, o sistemas rígidos que no entregan oportunidades de forma equitativa. 
+
+En Chile el anpalisis regional y comunal de esto ha mostrado que las oportunidades que entregan los terriotorios son diversas, siendo algunas regiones (como la Araucanía) caracterizadas por baja movilidad intergeneracional, o trampas de pobreza.
+
+Referencias : 
+
+
 ## Productividad
+
+En general se considera que la productividad está relacionada con la capacidad de las economías de generar bienes y servicios, y con estos mayor bienestar. Esta se define burdamente como la capacidad de transformar factores productivos en bienes y servicios, y es mayor cuando se puede produce más con relativamente los mismos factores. Es así que la adopción tecnológica o la innovación son centrales para estos análisis.
+
+La literatura examina una serie de determinantes desde perspectivas individuales de empresas o agregadas a nivel de sectores productivos. Adicional a estas es necesario considerar factores territoriales y la expresion de los determinantes en el territorio, a raiz de las crecientes disparidades subnacionales y los patrones de disminución de crecimiento de la productividad.
+
+Determinates clásicos de productividad:
+
+- Tecnología e Investigación y Desarrollo
+
+- Difusión de Conocimiento
+
+- Emprendimiento y Rotación de Empresas
+
+- Capital Humano
+
+- Finanzas
+
+- Instituciones
+
+- Regulación y Políticas
+
+- Perfiles y tendencias Demográficas
+
+Elementos puramente territoriales que determinan la productividad:
+
+- Geografía y Fronteras
+
+- Economías de Aglomeración
+
+- Infraestructura
+
+- Gobernanza. Provisión de Bienes Públicos

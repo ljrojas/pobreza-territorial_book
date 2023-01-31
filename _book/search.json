@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pobreza-territorial_book",
+    "title": "Pobreza Territorial",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Prefacio\nEste documento busca presentar referencias y elementos centrales para el análisis de la pobreza desde una perspectiva territorial. En este sentido, se presenta un listado de dimensiones e indicadores que la literatura menciona como importantes para analizar este fenómeno y así tener mejores diagnósticos territoriales."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introducción",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "La pobreza como fenómeno implica una condición de carencias, falta de oportunidades y limitantes en el desarrollo de una vida plena, de proyectos personales o colectivos. Es por esto que es un indicador central para caracterizar el bienestar general de la población y así también evaluar la efectividad de las políticas públicas.\nEn el presente documento se revisan los enfoques principales para analizar el fenómeno, buscando relevar sus dimensiones diversas, con el objetivo de tener un panorama general sobre los efectos y expresiones de la pobreza. Además se incorpora una visión desde la productividad en los territorios, con una idea de complementar el análisis relevando la capacidad productiva para generar bienestar presente en el territorio.\nEn particular se revisan elementos del cálculo de pobreza desde una perspectiva monetaria como multidimensional, elementos de pobreza energética, movilidad intergeneracional y finalmente productividad espacial."
   },
   {
     "objectID": "summary.html",
@@ -26,5 +26,61 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html#pobreza-monetaria",
+    "href": "summary.html#pobreza-monetaria",
+    "title": "2  Resumen",
+    "section": "2.1 Pobreza Monetaria",
+    "text": "2.1 Pobreza Monetaria\nPara el cálculo de la pobreza monetaria (y multidimensional) se requieren en general dos procesos: identificación y agregación. Es decir primero identificar las personas u hogares que se encuentran en condición de pobreza y luego agregarlos de forma correcta.\nPara la identificación de la pobreza monetaria se necesita definir un umbral de ingresos\nEste umbral depende a su vez de la canasta básica de consumo."
+  },
+  {
+    "objectID": "summary.html#pobreza-multidimensional",
+    "href": "summary.html#pobreza-multidimensional",
+    "title": "2  Resumen",
+    "section": "2.2 Pobreza Multidimensional",
+    "text": "2.2 Pobreza Multidimensional\nLa pobreza Multidimensional se mide en Chile desde 2013 y cuenta con 4 dimensiones originalmente, a las que luego se agregó una quinta (Entorno y Redes).\nEstas dimensiones y sus indicadores son:\n\n2.2.1 Educacion\n\nAsistencia\nRezago Escolar\nEscolaridad\n\n\n\n2.2.2 Salud\n\nMalnutrición de Niños y Niñas\nAdscripción al Sistema de Salud\nAtención\n\n\n\n2.2.3 Trabajo y Seguridad Social\n\nOcupación\nSeguridad Social\nJubilación\n\n\n\n2.2.4 Vivienda (y entorno)\n\nHabitabilidad\nServicios Básicos\nEntorno\n\n\n\n2.2.5 Entorno y Redes\n\nApoyo y participación social\nTrato Igualitario\nSeguridad"
+  },
+  {
+    "objectID": "summary.html#pobreza-energética",
+    "href": "summary.html#pobreza-energética",
+    "title": "2  Resumen",
+    "section": "2.4 Pobreza Energética",
+    "text": "2.4 Pobreza Energética\nUna dimensión adicional de la pobreza tiene que ver con el acceso y uso a energías, las cuales son centrales para la inclusión ciudadana digital o para las tareas hogareñas más básicas. El no contar con fuentes seguras, no contaminantes y confiables puede ser una carencia y una limitante importante para el desarrollo de las personas.\nAlgunos indicadores:\n\nGasto excesivo en energías\nVulnerabilidad y riesgo climático\nAcceso a electricidad\nCalefacción con fuente contaminante"
+  },
+  {
+    "objectID": "summary.html#movilidad-intergeneracional",
+    "href": "summary.html#movilidad-intergeneracional",
+    "title": "2  Resumen",
+    "section": "2.7 Movilidad intergeneracional",
+    "text": "2.7 Movilidad intergeneracional\nUna forma de revisar las oportunidades que entregan los territorios es el concepto de movilidad intergeneracional. Este indica la probabilidad de que una persona cuyos padres pertenezcan a un quintil de ingresos determinado pueda a lo largo de su vida mejorar su posición relativa, o mantenerse. Para evaluar esto se necesitan datos detallados de los ingresos de las personas y sus familias en el tiempo.\nEs así que altas probabilidades de mantenerse en el quintil de los padres estarían indicando baja movilidad intergeneracional, o sistemas rígidos que no entregan oportunidades de forma equitativa.\nEn Chile el anpalisis regional y comunal de esto ha mostrado que las oportunidades que entregan los terriotorios son diversas, siendo algunas regiones (como la Araucanía) caracterizadas por baja movilidad intergeneracional, o trampas de pobreza.\nReferencias :"
+  },
+  {
+    "objectID": "summary.html#productividad",
+    "href": "summary.html#productividad",
+    "title": "2  Resumen",
+    "section": "2.8 Productividad",
+    "text": "2.8 Productividad\nEn general se considera que la productividad está relacionada con la capacidad de las economías de generar bienes y servicios, y con estos mayor bienestar. Esta se define burdamente como la capacidad de transformar factores productivos en bienes y servicios, y es mayor cuando se puede produce más con relativamente los mismos factores. Es así que la adopción tecnológica o la innovación son centrales para estos análisis.\nLa literatura examina una serie de determinantes desde perspectivas individuales de empresas o agregadas a nivel de sectores productivos. Adicional a estas es necesario considerar factores territoriales y la expresion de los determinantes en el territorio, a raiz de las crecientes disparidades subnacionales y los patrones de disminución de crecimiento de la productividad.\nDeterminates clásicos de productividad:\n\nTecnología e Investigación y Desarrollo\nDifusión de Conocimiento\nEmprendimiento y Rotación de Empresas\nCapital Humano\nFinanzas\nInstituciones\nRegulación y Políticas\nPerfiles y tendencias Demográficas\n\nElementos puramente territoriales que determinan la productividad:\n\nGeografía y Fronteras\nEconomías de Aglomeración\nInfraestructura\nGobernanza. Provisión de Bienes Públicos"
+  },
+  {
+    "objectID": "summary.html#dimensiones-faltantes",
+    "href": "summary.html#dimensiones-faltantes",
+    "title": "2  Resumen",
+    "section": "2.3 Dimensiones Faltantes",
+    "text": "2.3 Dimensiones Faltantes\nExiste una rica discusión de elementos que no son comunmente capturados en los análisis tradicionales de pobreza, y que sin embargo son de vital importancia para el desarrollo y desenvolvimiento de las personas.\nReferencias: OPHI, exclusion social, zavaleta\n\nEmpoderamiento y Agencia\nSeguridad Física\nCapacidad de ir por la vida sin sentir vergüenza\nCalidad del empleo\nConectividad Social\nBienestar psicológico y subjetivo"
+  },
+  {
+    "objectID": "summary.html#bienestar-social",
+    "href": "summary.html#bienestar-social",
+    "title": "2  Resumen",
+    "section": "2.5 Bienestar Social",
+    "text": "2.5 Bienestar Social\nHow’s Life\nEncuesta Bienestar Social"
+  },
+  {
+    "objectID": "summary.html#ruralidad",
+    "href": "summary.html#ruralidad",
+    "title": "2  Resumen",
+    "section": "2.6 Ruralidad",
+    "text": "2.6 Ruralidad"
   }
 ]
