@@ -25,7 +25,7 @@
     "href": "summary.html#pobreza-multidimensional",
     "title": "2  Resumen",
     "section": "2.2 Pobreza Multidimensional",
-    "text": "2.2 Pobreza Multidimensional\nLa pobreza Multidimensional se mide en Chile desde 2013 y cuenta con 4 dimensiones originalmente, a las que luego se agregó una quinta (Entorno y Redes).\nEstas dimensiones y sus indicadores son:\n\n2.2.1 Educacion\n\nAsistencia\nRezago Escolar\nEscolaridad\n\n\n\n2.2.2 Salud\n\nMalnutrición de Niños y Niñas\nAdscripción al Sistema de Salud\nAtención\n\n\n\n2.2.3 Trabajo y Seguridad Social\n\nOcupación\nSeguridad Social\nJubilación\n\n\n\n2.2.4 Vivienda (y entorno)\n\nHabitabilidad\nServicios Básicos\nEntorno\n\n\n\n2.2.5 Entorno y Redes\n\nApoyo y participación social\nTrato Igualitario\nSeguridad"
+    "text": "2.2 Pobreza Multidimensional\nLa pobreza Multidimensional se mide en Chile desde 2013 y cuenta con 4 dimensiones originalmente, a las que luego se agregó una quinta (Entorno y Redes).\nEstas dimensiones y sus indicadores son:\n\n2.2.1 Educacion\n\nAsistencia\nRezago Escolar\nEscolaridad\n\n\n\n2.2.2 Salud\n\nMalnutrición de Niños y Niñas\nAdscripción al Sistema de Salud\nAtención\n\n\n\n2.2.3 Trabajo y Seguridad Social\n\nOcupación\nSeguridad Social\nJubilación\n\n\n\n2.2.4 Vivienda (y entorno)\n\nHabitabilidad\nServicios Básicos\nEntorno\n\n\n\n2.2.5 Redes y Cohesión Social\n\nApoyo y participación social\nTrato Igualitario\nSeguridad"
   },
   {
     "objectID": "summary.html#dimensiones-faltantes",
@@ -42,18 +42,18 @@
     "text": "2.4 Pobreza Energética\nUna dimensión adicional de la pobreza tiene que ver con el acceso y uso a energías, las cuales son centrales para la inclusión ciudadana digital o para las tareas hogareñas más básicas. El no contar con fuentes seguras, no contaminantes y confiables puede ser una carencia y una limitante importante para el desarrollo de las personas.\nAlgunos indicadores:\n\nGasto excesivo en energías\nVulnerabilidad y riesgo climático\nAcceso a electricidad\nCalefacción con fuente contaminante"
   },
   {
+    "objectID": "summary.html#pobreza-rural",
+    "href": "summary.html#pobreza-rural",
+    "title": "2  Resumen",
+    "section": "2.5 Pobreza Rural",
+    "text": "2.5 Pobreza Rural"
+  },
+  {
     "objectID": "summary.html#bienestar-social",
     "href": "summary.html#bienestar-social",
     "title": "2  Resumen",
-    "section": "2.5 Bienestar Social",
-    "text": "2.5 Bienestar Social\nHow’s Life\nEncuesta Bienestar Social"
-  },
-  {
-    "objectID": "summary.html#ruralidad",
-    "href": "summary.html#ruralidad",
-    "title": "2  Resumen",
-    "section": "2.6 Ruralidad",
-    "text": "2.6 Ruralidad"
+    "section": "2.6 Bienestar Social",
+    "text": "2.6 Bienestar Social\nHow’s Life\nEncuesta Bienestar Social"
   },
   {
     "objectID": "summary.html#movilidad-intergeneracional",
@@ -68,5 +68,75 @@
     "title": "2  Resumen",
     "section": "2.8 Productividad",
     "text": "2.8 Productividad\nEn general se considera que la productividad está relacionada con la capacidad de las economías de generar bienes y servicios, y con estos mayor bienestar. Esta se define burdamente como la capacidad de transformar factores productivos en bienes y servicios, y es mayor cuando se puede produce más con relativamente los mismos factores. Es así que la adopción tecnológica o la innovación son centrales para estos análisis.\nLa literatura examina una serie de determinantes desde perspectivas individuales de empresas o agregadas a nivel de sectores productivos. Adicional a estas es necesario considerar factores territoriales y la expresion de los determinantes en el territorio, a raiz de las crecientes disparidades subnacionales y los patrones de disminución de crecimiento de la productividad.\nDeterminates clásicos de productividad:\n\nTecnología e Investigación y Desarrollo\nDifusión de Conocimiento\nEmprendimiento y Rotación de Empresas\nCapital Humano\nFinanzas\nInstituciones\nRegulación y Políticas\nPerfiles y tendencias Demográficas\n\nElementos puramente territoriales que determinan la productividad:\n\nGeografía y Fronteras\nEconomías de Aglomeración\nInfraestructura\nGobernanza. Provisión de Bienes Públicos"
+  },
+  {
+    "objectID": "monetaria.html",
+    "href": "monetaria.html",
+    "title": "3  Pobreza Monetaria",
+    "section": "",
+    "text": "Identificacion\nAgregacion\nCanasta basica\nLinea de pobreza, vulnerabilidad\nSAE Comunal"
+  },
+  {
+    "objectID": "multidimensional.html#salud",
+    "href": "multidimensional.html#salud",
+    "title": "4  Pobreza Multidimensional",
+    "section": "4.1 Salud",
+    "text": "4.1 Salud"
+  },
+  {
+    "objectID": "multidimensional.html#educacion",
+    "href": "multidimensional.html#educacion",
+    "title": "4  Pobreza Multidimensional",
+    "section": "4.2 Educacion",
+    "text": "4.2 Educacion"
+  },
+  {
+    "objectID": "multidimensional.html#trabajo-y-seguridad-social",
+    "href": "multidimensional.html#trabajo-y-seguridad-social",
+    "title": "4  Pobreza Multidimensional",
+    "section": "4.3 Trabajo y seguridad Social",
+    "text": "4.3 Trabajo y seguridad Social"
+  },
+  {
+    "objectID": "multidimensional.html#vivienda-y-entorno",
+    "href": "multidimensional.html#vivienda-y-entorno",
+    "title": "4  Pobreza Multidimensional",
+    "section": "4.4 Vivienda y Entorno",
+    "text": "4.4 Vivienda y Entorno"
+  },
+  {
+    "objectID": "multidimensional.html#redes-y-cohesión-social",
+    "href": "multidimensional.html#redes-y-cohesión-social",
+    "title": "4  Pobreza Multidimensional",
+    "section": "4.5 Redes y Cohesión Social",
+    "text": "4.5 Redes y Cohesión Social\nCapital social y redes sociales - Son elementos centrales para diagnosticar y superar la pobreza - Capital social moviliza otro tipo de rrecursos - Redes como algo a ser movilizado, autoorganizacion y reorganizacion por objetivos propios - Promover la capacidad asociativa\nAislamiento social (Dimensiones Faltantes, OPHI) - Segregacion - Carencia de redes de apoyo refuerza privaciones - Causa otras privaciones: falta de oportunidades laborales y acceso desigual a servicios - Deficiencia en calidad y cantidad de relaciones sociales - Elemento externo: caracter y frecuencia - Elemento interno: satisfaccion con el vinculo\nMecanismos de segregacion, violencia, discriminacion y deteriorio convivencia social - Impcto Cohesion Social: inseguridad y discriminacion por NSE, sexo, color, etc - Deterioro de la confianza, redes delincuenciales, capital social negativos\nTerritorio - Relaciones multiples y complejas: sujeto, medio natura y construido, personas, comuniades e instituciones - Vinculos cotidieanos - Antropologia del territorio, habitat y pobreza\nBarreras Geograficas - Distancia - Accesibilidad - Tiempo de traslado - Disponibilidad sistemas de transporte\nRiesgos para la salud física y mental - Contaminantes - insuficiencia areas verdes y bosques - externalidades medioambientales\nLimitantes al esparcimiento, vida social y cultural - Carencia, mal estado y o inadecuacion de espacios publicos\nMalas condiciones son una carencia en si mismas, sumado a un ambiente segregado, configuran limites objetvos y simbolicos diferentes por grupos sociales\nConfianza"
+  },
+  {
+    "objectID": "dimensiones-faltantes.html",
+    "href": "dimensiones-faltantes.html",
+    "title": "5  Dimensiones Faltantes",
+    "section": "",
+    "text": "OPHI: Oxford Poverty H Initiative\nZavaleta"
+  },
+  {
+    "objectID": "bienestar-social.html",
+    "href": "bienestar-social.html",
+    "title": "8  Bienestar Social",
+    "section": "",
+    "text": "OCDE : Hows life\nEBS: Encuesta Bienestar Social"
+  },
+  {
+    "objectID": "productividad.html#determinantes-productividad",
+    "href": "productividad.html#determinantes-productividad",
+    "title": "10  Productividad Local",
+    "section": "10.1 Determinantes Productividad",
+    "text": "10.1 Determinantes Productividad\n\n10.1.1 Tecnologia e Investigacion y Desarrollo\n\n\n10.1.2 Difusión de Conocimiento\nVinculos universidades\nRedes de conocimiento internacional\n\n\n10.1.3 Emprendimiento y Rotacion de Empresas\n\n\n10.1.4 Capital Humano\n\n\n10.1.5 Finanzas\n\n\n10.1.6 Instituciones\n\n\n10.1.7 Regulacion y Politicas\n\n\n10.1.8 Perfiles y tendencias demográficas"
+  },
+  {
+    "objectID": "productividad.html#determinantes-espaciales",
+    "href": "productividad.html#determinantes-espaciales",
+    "title": "10  Productividad Local",
+    "section": "10.2 Determinantes Espaciales",
+    "text": "10.2 Determinantes Espaciales\n\n10.2.1 Geografia y Fronteras\n\n\n10.2.2 Economias de Aglomeracion\n\n\n10.2.3 Infraestructura\n\n\n10.2.4 Gobernaza, provision de bienes publicos"
   }
 ]
