@@ -2,4 +2,26 @@
 
 OCDE : Hows life
 
+- Ingreso
+
+- Trabajo
+
+- Vivienda
+
+- Salud
+
+- Balance trabajo y vida 
+
+- Educacion
+
+- Conexiones sociales
+
+- Gobernanza y participación civil
+
+- Entorno y medio ambiente
+
+- Seguridad Personal
+
+- Bienestar Subjetivo
+
 EBS: Encuesta Bienestar Social

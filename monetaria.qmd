@@ -1,11 +1,37 @@
 # Pobreza Monetaria
 
-Identificacion
+Para caracterizar el bienestar y las carencias de la población y así guiar y evaluar el desarrollo de políticas públicas se recurre al análisis de la pobreza.
 
-Agregacion
+Con este análisis se busca capturar la capacidad que tienen las personas de desarrollarse e integrarse dentro de la sociedad. 
+
+En general esto se ha realizado mediante el estudio de los ingresos monetarios de las personas; buscando de cierto modo caracterizar la capacidad de satisfacer las necesidades básicas de los hogares o personas con sus ingresos monetarios.
+
+## Línea de Pobreza
+
+El análisis de la pobreza implica en general lograr *Identificar* a los hogares y las personas que se encuentran en situación de carencias y luego *Agregar* de manera consistente para caracterizar a la población general.
+
+Este proceso de identificación implica definir un **umbral mínimo** bajo el cual la persona se encuentra en situación de pobreza. Es así que el análisis implica un elemento normativo, al definir la llamada **línea de pobreza**. Esta definición impacta directamente luego la agregación y con esto cómo se caracteriza la evolución del indicador en el territorio.
+
+La idea sería entonces que esta definición de umbral mínimo logre capturar adecuadamente el poder contar con recursos suficientes para desarrollarse e insertarse dentro de la sociedad en al cual se participa.
 
 Canasta basica
 
-Linea de pobreza, vulnerabilidad
+## Ingresos Autónomos y Subsidios
 
-SAE Comunal
+## Vulnerabilidad
+
+Se puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.
+
+De cierto modo la linea de vulnerabilidad es una banda que se le aplica a la linea de pobreza.
+
+## Datos y Representatividad
+
+El análisis de la pobreza en Chile se realiza en base a los datos de la Encuesta de Caracterización Socioeconómica (CASEN) realizada por el Ministerio de Desarrollo Social y Familia (y antes por MIDEPLAN).
+
+La representatividad de esta encuesta es nacional, territorial (urbano y rural) y regional. En general la representividad comunal cambia por los años de realización dependiendo de si es un objetivo del diseño muestral lograr este nivel de representavidad, siendo al comienzo representativa para algunas comunas (autocontenidas) y en las ultimas ediciones incluído un factor de expansión comunal el cual permite realizar análisis comunales sujeto a evaluar la confiabilidad de los resultados.
+
+### SAE Comunal
+
+Los datos de pobreza comunal se derivan de técnicas de estimación de area pequeña (SAE por sus siglas en inglés).
+
+En general se usan modelos de Area que búscan incorporar información adicional, generalmente registros administrativos, para disminuir la varianza de la estimación en unidades territoriales con pocas unidades de muestreo. Además de la imputación por conglomerados para zonas donde no se cuentan con datos (comunas no incluidas en el diseño muestral, por ser zonas de dificil acceso)
