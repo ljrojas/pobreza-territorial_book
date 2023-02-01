@@ -70,11 +70,32 @@
     "text": "2.8 Productividad\nEn general se considera que la productividad está relacionada con la capacidad de las economías de generar bienes y servicios, y con estos mayor bienestar. Esta se define burdamente como la capacidad de transformar factores productivos en bienes y servicios, y es mayor cuando se puede produce más con relativamente los mismos factores. Es así que la adopción tecnológica o la innovación son centrales para estos análisis.\nLa literatura examina una serie de determinantes desde perspectivas individuales de empresas o agregadas a nivel de sectores productivos. Adicional a estas es necesario considerar factores territoriales y la expresion de los determinantes en el territorio, a raiz de las crecientes disparidades subnacionales y los patrones de disminución de crecimiento de la productividad.\nDeterminates clásicos de productividad:\n\nTecnología e Investigación y Desarrollo\nDifusión de Conocimiento\nEmprendimiento y Rotación de Empresas\nCapital Humano\nFinanzas\nInstituciones\nRegulación y Políticas\nPerfiles y tendencias Demográficas\n\nElementos puramente territoriales que determinan la productividad:\n\nGeografía y Fronteras\nEconomías de Aglomeración\nInfraestructura\nGobernanza. Provisión de Bienes Públicos"
   },
   {
-    "objectID": "monetaria.html",
-    "href": "monetaria.html",
+    "objectID": "monetaria.html#línea-de-pobreza",
+    "href": "monetaria.html#línea-de-pobreza",
     "title": "3  Pobreza Monetaria",
-    "section": "",
-    "text": "Identificacion\nAgregacion\nCanasta basica\nLinea de pobreza, vulnerabilidad\nSAE Comunal"
+    "section": "3.1 Línea de Pobreza",
+    "text": "3.1 Línea de Pobreza\nEl análisis de la pobreza implica en general lograr Identificar a los hogares y las personas que se encuentran en situación de carencias y luego Agregar de manera consistente para caracterizar a la población general.\nEste proceso de identificación implica definir un umbral mínimo bajo el cual la persona se encuentra en situación de pobreza. Es así que el análisis implica un elemento normativo, al definir la llamada línea de pobreza. Esta definición impacta directamente luego la agregación y con esto cómo se caracteriza la evolución del indicador en el territorio.\nLa idea sería entonces que esta definición de umbral mínimo logre capturar adecuadamente el poder contar con recursos suficientes para desarrollarse e insertarse dentro de la sociedad en al cual se participa.\nCanasta basica"
+  },
+  {
+    "objectID": "monetaria.html#ingresos-autónomos-y-subsidios",
+    "href": "monetaria.html#ingresos-autónomos-y-subsidios",
+    "title": "3  Pobreza Monetaria",
+    "section": "3.2 Ingresos Autónomos y Subsidios",
+    "text": "3.2 Ingresos Autónomos y Subsidios"
+  },
+  {
+    "objectID": "monetaria.html#vulnerabilidad",
+    "href": "monetaria.html#vulnerabilidad",
+    "title": "3  Pobreza Monetaria",
+    "section": "3.3 Vulnerabilidad",
+    "text": "3.3 Vulnerabilidad\nSe puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.\nDe cierto modo la linea de vulnerabilidad es una banda que se le aplica a la linea de pobreza."
+  },
+  {
+    "objectID": "monetaria.html#datos-y-representatividad",
+    "href": "monetaria.html#datos-y-representatividad",
+    "title": "3  Pobreza Monetaria",
+    "section": "3.4 Datos y Representatividad",
+    "text": "3.4 Datos y Representatividad\nEl análisis de la pobreza en Chile se realiza en base a los datos de la Encuesta de Caracterización Socioeconómica (CASEN) realizada por el Ministerio de Desarrollo Social y Familia (y antes por MIDEPLAN).\nLa representatividad de esta encuesta es nacional, territorial (urbano y rural) y regional. En general la representividad comunal cambia por los años de realización dependiendo de si es un objetivo del diseño muestral lograr este nivel de representavidad, siendo al comienzo representativa para algunas comunas (autocontenidas) y en las ultimas ediciones incluído un factor de expansión comunal el cual permite realizar análisis comunales sujeto a evaluar la confiabilidad de los resultados.\n\n3.4.1 SAE Comunal\nLos datos de pobreza comunal se derivan de técnicas de estimación de area pequeña (SAE por sus siglas en inglés).\nEn general se usan modelos de Area que búscan incorporar información adicional, generalmente registros administrativos, para disminuir la varianza de la estimación en unidades territoriales con pocas unidades de muestreo. Además de la imputación por conglomerados para zonas donde no se cuentan con datos (comunas no incluidas en el diseño muestral, por ser zonas de dificil acceso)"
   },
   {
     "objectID": "multidimensional.html#salud",
@@ -119,11 +140,18 @@
     "text": "OPHI: Oxford Poverty H Initiative\nZavaleta"
   },
   {
+    "objectID": "rural.html",
+    "href": "rural.html",
+    "title": "7  Pobreza Rural",
+    "section": "",
+    "text": "RIMISP\nPequeños agricultores\n\nFactores Contributivos\n\nFalta de Infraestructura\nBarreras Geográficas\nAcceso insuficiente a mercados\nFalta de vehiculos de carga motorizados\nPobreza urbana vs rural\nApertura de economias a comercio internacional\nDesigualdades en educacion y servicios sociales\nAcceso a crédito"
+  },
+  {
     "objectID": "bienestar-social.html",
     "href": "bienestar-social.html",
     "title": "8  Bienestar Social",
     "section": "",
-    "text": "OCDE : Hows life\nEBS: Encuesta Bienestar Social"
+    "text": "OCDE : Hows life\n\nIngreso\nTrabajo\nVivienda\nSalud\nBalance trabajo y vida\nEducacion\nConexiones sociales\nGobernanza y participación civil\nEntorno y medio ambiente\nSeguridad Personal\nBienestar Subjetivo\n\nEBS: Encuesta Bienestar Social"
   },
   {
     "objectID": "productividad.html#determinantes-productividad",
