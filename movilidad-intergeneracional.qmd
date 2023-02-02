@@ -1,1 +1,10 @@
 # Movilidad Intergeneracional
+
+La Movilidad Intergeneracional (IGM) analiza el grado en que los recursos familiares se transfieren de padres a hijos. Distintas refinaciones de estos estudios analizan el rol de la inversión en capital humano y su productividad, qué tan heredables son los privilegios y preferencias. 
+
+En Chile esto ha sido estudiado recientemente con datos administrativos vinculando ingresos de padres e hijos para analizar el cambio en el ranking de ingresos de una generación a otra para distintas regiones del país.[@cortes-orihuelaDecentralizingChileanMiracle2022]. 
+
+Este trabajo encuentra que la región con menor movilidad intergeneracional es la Araucanía, con marcado caracter agrícola, además de contar con la mayor tasa de pobreza del país (17%) y el mayor porcentaje de personas de etnia mapuche. Esta región solo contribuye solo con el 3% del PIB nacional. En contraste la región más movil es Antofagasta, con alta intesidad minera.
+
+Estos resultados son interesantes, además por el rol del boom de los commodities en generar crecimiento inclusivo.
+

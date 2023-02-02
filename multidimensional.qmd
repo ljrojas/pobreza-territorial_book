@@ -12,16 +12,144 @@ En un comienzo se incluyeron cuatro dimensiones: Educación, Salud, Trabajo y Se
 
 La medición de la pobreza multidimensional se realiza mediante la encuesta CASEN.
 
+## Educacion
+
+Debido a su valor intrínseco, además de ser un derecho constitucional y por entregar los conocimientos y habilidades para desarrollarse como persoas la dimensión de educación busca identificar carencias que limitan las posibilidades de desarrollo de las personas.
+
+### Asistencia Escolar
+
+Se busca detectar carencias en la población escolar y preescolar.
+
+**Al menos uno de sus integrantes de 4 a 18 añpos no esta asistiendo a establecimiento educacional o ha egresado de cuarto medio, o de 6 a 26 años con una condicion permanente no asiste**
+
+### Rezago Escolar
+
+Relacionado a indicadores de logros o avance. Se consideran indicadores de fracaso escolar como la deserción, la repitencia o el rezago. Sin embargo en CASEN no puede medirse la deserción. Se considera el rezago como un factor de riesgo de deserción.
+
+**Al menos uno de sus integrantes menores a 21 años tiene 2 años o más retrasados de acuerdo al curso que le corresponde**
+
+### Escolaridad
+
+Se relaciona con el mínimo número de años que requiere una persona para insertarse adecuadamente en la sociedad. Por lo mismo es escalonado relacionado a la edad, debido a que la escolaridad obligagoria fue cambiando con el tiempo.
+
+**Al menos uno de sus integrantes mayores a 18 años alcanza menos años de escolaridad de los establecidos por ley de acuerdo a su edad**
+
 ## Salud
 
-## Educacion
+Debido a ser condición necesaria para el desarrollo de capacidades humanas, además de que un buene stado de salud representa una capacidad para el desarrollo personal y colectivo
+
+### Malnutrición en niños y niñas
+
+La malnutrición se relaciona con un estado de salud carenciado que presenta riesgos para el desarrollo físico y cognitivo. Se considera también la obesidad en niños, con lo que se busca rescatar la malnutrición por exceso o por déficit. Para evitar subreporte se solicita al entrevista el Carnet de Control del Niño o Niña para reportar el estado nutricional. 
+
+**Al menos uno de sus integrantes de 0 a 6 años tiene sobrepeso, obesidad, desnutrición o riesgo de desnutrición**
+
+### Adscripción al sistema de Salud
+
+No contar con un sistema previsional es una barrera para la atención de salud. De no tener sistema previsión, y contar con ingresos inferiores al mínimo, se puede optar por seguros públicos de salud.
+
+El no contar con sistema previsional es carencia debido al riesgo de enfrentar gastos imprevistos que limiten el acceso a la salud o la atención, con lo que se transforma en un riesgo de vulnerabilidad.
+
+**Al menos uno de los integrantes no está afiliado a un sistema previsional de salud y no tiene otro seguro de salud**
+
+### Atención de salud
+
+Para construir este indicador se revisan las razones por las cuales un apersonas no tuvo consulta o atención médica. Asi identificanddo también la cobertura de tratamiento GES-AUGE. Se consideran dos ámbitos de carencia, corto plazo (3 meses) y largo plazo. Además, para considerar las preferencias de las personas, se asocia la carencia a algunas categorías de respuesta que dan cuenta de una necesidad de atención de salud instatisfecha.
+
+**Al menos un integrante: tuvo problema de salud en los ultimos 3 meses y no tuvo consulta ni atención por falta de tiempo, dinero, dificultar de llegar al lugar, pidio hora y no obtubo. O durante los ultimos 12 meses estuvo en tratamiento por AUGE y no ha sido cubierto por: decidir no esperar, percepcion de baja calidad, tramite dificil, no cobertura de necesidades, no sabia que estaba en AUGE, no pertenece al tramo de edad u otra razón**
 
 ## Trabajo y seguridad Social
 
+El contar con empleo de calidad y además previsión para la vejez, por ser un medio para acceder a recursos además de tener valor intrínseco relacionado a la autovaloración, la seguridad y la pertenencia.
+
+### Ocupación
+
+El trabajo no solo genera ingresos, sino que su carencia afecta la independencia, la posibilida de mantenerse actualizado en conocimientos.
+
+Existen medidas adicionales de demanda insatisfecha de trabajo, como subempleo por insuficiencia de horas. Sin embargo no se consdieran en este indicador por ser carencias menos graves que el desempleo.
+
+**Al menos un integrante mayor de 18 está desocupado**
+
+### Seguridad social
+
+El acceso a seguridad social da cuenta de la calidad de un trabajo y condiciona el bienestar futuro de las personas.
+
+Entre las recomendaciones de la OIT se considera el Trabajo Decente. Este considera además de la seguridad social, las oportunidades de empleo, ingresos adecuados, trabajo productivo, horas de trabajo decentes, conciliación del trabajo y la vida personal, estabilidad y seguridad, igualdad de oportunidade y trato, entorno seguro, dialogo social y presentación.
+
+Se analizó también indicadores como la capacidad del empleo para generar un salario de subsitencia, como el salario por hora mínimo. Lamentablemente Casen no permite estimaciones confiables respecto de este indicador.
+
+**Al menos un integrante de 15 años o más se encuentra ocupado y no cotiza en sistema previsional y no es trabajador independiente con educación superior completa**
+
+### Jubilaciones
+
+Se consdiera carente un hogar si **al menos un integrante no percibe pensión contributiva o no contributiva, y no recibe otros ingresos por arriendos, retiro de utilidades, dividendos e intereses**
+
 ## Vivienda y Entorno
+
+Además de ser un bien que asegura refugio, protección, calidad material, espacio y servicios básicos. También se relaciona con un hábitat saludable, con acceso al trabajo  y a equipamientos funamentales, como servicios, educación, salud y transporte.
+
+### Habitabilidad
+
+Se fundamente en los principcios de vivienda adecuada. Habitat II (consagrado en la declación de Estambul) considera sisete principios: seguridad de la tenencia, disponibilidad de servicios, asequbilidad, habitabilidad, accesibilidad, ubicación y adecuación cultural. 
+
+Una vivienda debiese garantizar seguridad física, espacio suficiente, protección contra el frio, humedad calor.
+
+La primera versión consideraba dos indicadores que fueron combinados: hacinamiento y estado de la vivienda. Al vincular ambas carencias se es consistente con el objetivo de mejora cualitativa del stock habitacional.
+
+**Se considera carencia si existe hacinamiento (numero de personas por dormitorio mayor o igual a 2,5) o mal estado de la vivienda (material en mal estado)**
+
+### Servicios Básicos
+
+Es importante el acceso a servicios que contemplen disponibilidad de agua potable e instalaciones sanitarias adecuadas. De cierta forma esto se releva en los estándares normados para la construcción de viviendas.
+
+Es necesario distinguir la zona rural, debido a la cobertura operacional de las sanitarias no hace factible la conexión a red pública. 
+
+Se considera carencia si **reside en vivienda que no tiene agua potable de red pública en caso urbano o en caso rural no tiene agua por red de fuente subterraneas o superficiales; además tanto urbano o rural no cuenta con elminación de excretas adecuado y/o no tiene llave fuera de la vivienda**
+
+### Entorno
+
+En este indicador se busca relevar la importancia de la infraestructura y el mediioambiente, considerando el principio de *ubicación* que se relaciona con el acceso a oportunidades de empleo, servicios de salud, escuelas, guarderias, instalaciones sociales. Además de no estar ubicado en zonas contamientadas o peligrosas.
+
+Con esto se busca medir simultaneamente que el hogar no esté afectado por presencia de situaciones persistentes de contaminación y que tenga acceso expedito a servicios y tenga un tiempo razonable de traslado al trabajo.
+
+Se considera carencia si **ultimos 12 meses frecuencia "siempre" al menos 2 problemas de contaminación ambiental (aire, malos olores, contaminacion en rios, canales, embalses, contaminacion de agua de red publica o acumulación de basura en las calles). Además en caso de hogares sin integrantes ocupados, si no disponen de transporte publico en 1 km, centro educacional a 2,5 km y  centro de salud a 2,5 km. En caso de tener integrantes ocupados, carecer de algun equipamiento basico y demora diara de 1 hora o mas para llegar al trabajo principal**
 
 ## Redes y Cohesión Social
 
+El "aislamiento social", destacado por la OPHI (Iniciativa de Pobreza y Desarrollo Humano de Oxford), implica privaciones en relaciones sociales o carencias en conectividad social. 
+
+Esto se relaciona con los conceptos de capital social y redes sociales se identifican como elementos centrales en el diagnostico y en la superación de la pobreza. Las redes con vistas como algo as ser movilizado, con capacidad de autogestionarse y reorganizarse, promoviendo la capacidad asociativa.
+
+Por otro lado, en Chile, país caracterizado por baja afiliación a organizaciónes sociales formales y sindicales, la identificación de carencias por aislamiento social debe considerar los razgos propios de asociatividad y conectividad. 
+
+El PNUD identifica la participación como elemento importante en la creación de riqueza y empleo, ademas de ser un determinante de la cohesión social (PNUD, 2000). 
+
+Es necesario distinguir tambien las redes de afecto y cercanía al interior de un grupo (bonding), las redes comunitarias y vecinales entre grupos semejantes (bridging)  y redes con asociaciones externas y distintos niveles de recursos (linking). Además, para los individuos en situación de desventaja, son más útiles los vínculos fuera de los círculos sociales más inmediatos. Siendo una mayor cantida de redes diversas un factor para una sociedad más cohesiva.
+
+Con estos antecedentes, se considera carencia si **hogares que declaran no conocer una persona fuera del hogar que pueda prestar apoyo en situaciones de: cuidado en caso de enfermedad, facilitar vehiculo, prestar dinero, consultas por tramites legales, ayudar con uso de tecnologías, ayudar con reparaciones del hogar, ayudar a conseguir trabajo, aconsejar en caso de problemas personales o familiares. Además, ningun miembre de 14 años o más ha participado en organizaciones sociales y ningún miembro de 18 o más participe en organizaciones relacionadas al trabajo**.
+
+### Trato Igualitario
+
+Este indicador se relaciona con el llamado *estigma de la pobreza* que se expresa en situaciones donde las personas buscan ocultar su situación de pobreza para evitar humillaciones y verguenza (Zavaleta, 2007). Además, los investigadores asociados a OPHI le dan relevancia a las experiencias de verguenza y humillación; las cuales debido a su complejidad de medición se les reconocen en las denominadas "dimensiones faltantes" (OPHI-CAF, 2015).
+
+Esta verguenza puede descomponerse en dos claves: el estigma de la pobreza o la verguenza de ser asociado con ser pobre y la propension a la verguenza o tendencia a sentir verguenza en respuesta a eventos negativos (Zavaleta, 2007)
+
+La humillación se relaciona a: una experiencia externa de humillacion, referida a la percepción de un trato irrespetuoso, injusto o discriminador, y a una experiencia interna, donde la humillación se acumula anivel individual.
+
+Es así que se detecta una carencia si **alguno de los miembros ha sido tratado injustamente o discriminado fuera del hogar los ultimos 12 meses por razones socioeconomicas, sexo, estado civil, ropa, color de piel, extranero, edad, orientacióin sexual, identidad de genero, tatuajes, piercing, perforaciones o expansiones, apariencia fisica, creencias o religion, idiologia u opinion politica, participar o no en sindicatos o gremios, lugar donde vive, establecimiento donde estudio, pueblo indicgena o salud y discapacidad**
+
+### Seguridad
+
+Es importante relevar el efecto que ejerce la violencia sobre el desarrollo y el ejercicio de la libertad individual, manteniendo las trampas de pobreza en comunidades. 
+
+Esto es importante para la cohesión, la convivencia y el capital social a escala comunitaria, ya que la violencia impacta la confianza hacia otras personas, vecinos e instituciones, limitando la eficacia y extención de las redes de apoyo. Promoviendo finalmente comportamientos anómicos, redes delictuales y capital social negativo.
+
+Se consideran asi problemáticas de alta notoriedad social, que repercuten en la percepción de seguridad, considerando los hechos delictuales entrañan un peligro objetivo para la vida, salud y seguridad física de las personas. Por tanto se excluyen delitos contra la propiedad, lesiones y otras incivilidades.
+
+Se considera carencia entonces a hogares que **algun miembro declara que ha vivido o presenciado "siempre", durante el ultimo mes, al menos Tráfico de Drogas o Balaceras y Disparos**
+
+
+## Notas
 
 Capital social y redes sociales
 - Son elementos centrales para diagnosticar y superar la pobreza

@@ -1,20 +1,28 @@
 # Pobreza Rural
 
-- Definicion ruralidad
-    - Cambia por pais
-    - densidad de poblacion
-    - superficie
-    - distancia centros urbanos
-    - servicios basicos
-    
+El territorio rural tiene particularidades que lo hacen merecedor de un análisis a parte. Las dinámicas de migración campo ciudad y tendencias demográficas, la composición de la actividad económica y el acceso a oportunidades y mercados hacen del territorio rural un caso aparte.
 
-Mayor dispersión, infraestructura insuficiente, falta de acceso a oportunidades, distancia de mercados.
+En general se encuentran tendencias de despoblación de jóvenes y envejecimiento en los sectores rurales, debido a la falta de oportunidades de empleo y educación que generan migraciones de jóvenes a la ciudad. Por otro lado, la dispersión poblacional dificulta la existencia de infraestructura de calidad, y el acceso a servicios y conectividad (de caminos e informática) es un desafío permanente en estos territorios. Así mismo, el rol de la mujer en el mundo rural requiere especial atención, respecto de acceso a oportunidades, educación y cultura.
+
+En el presente apartado revisamos las deficinciones de ruralidad, los factores contributivos a la pobreza rural y elementos relevantes de la ruralidad intermedia o el continuo campo-ciudad.
+
+## Definiciones de Ruralidad
+
+Existen cinco grandes tipos de criterios para la definición censal de la población urbana. Estos son: número de personas por localidad, número de casas continuas, número de personas por localidad y empleo en actividades primarias (Chile), presencia de servicios públicos y definición administrativa.
+
+Estos criterios, que cambian entre países, nos hablan de criterios arbitrarios y dicotómicos. Existen areas rurales que en realidad son urbanas, ya que encuanto a espacios, distancia e infraestructura vial, traslado de personas al trabajo, podrían ser peri-urbanas. Están las localidades a distancia intermedia de ciudades de importancia, con servicios administrativos y otros, y por último estarían los asentamientos dispersos, lejanos de servicios y poco provistos de infraestructura.
+
+En este punto estaría siendo recogido por las llamadas zonas aisladas en la política de SUBDERE
+
+En general encontrarmos que las definiciones hablan de mayor dispersión, infraestructura insuficiente, falta de acceso a oportunidades, distancia de mercados, menor densidad y actividades económicas primarias. Sin embargo es necesario considerar el límite aritifical de la definición y la evolución en el tiempo de los territorios para considerar fenómenos como loteos de parcelas de agrado y una ruralidad residencial de personas de altos recursos que quieren escapar de la ciudad.
 
 ## Factores Contributivos
 
+Entre los factores contributivos a la falta de oportunidades en el sector rural son las siguientes:
+
 ### Falta de Infraestructura
 
-Mejor movilidad y conectividad dependen de contar con caminos adecuados que permitan el acceso a servicios
+Mejor movilidad y conectividad dependen de contar con caminos adecuados que permitan el acceso a servicios.
 
 ### Barreras Geográficas
 
@@ -36,32 +44,43 @@ Apertura a comercio internacional y politicas neoliberales han aumentadao la des
 
 La falta de acceso a educacion y oportunidades limitadas inhiben la movilidad social. Esto tambien implica que los jóvenes dejen los sectores rurales migrando a zonas urbanas en bpusqueda de oportunidades educacionales y laborales.
 
-## 
+## Desigualdad Territorial
 
-Diferenciar acceso a recursos propios, parselas de agrado y loteos irregulares. Personas de altos recursos que optan por segunda vivienda o trasladarse a la ruralidad por opción.
+Chile a pesar de tener tasas de crecimiento de 7% al año entre 1992 y 2002 concentró este crecimiento en un 39% de las comunas. Esto habla de una enorme heterogeneidad entre territorios. Donde solo 8 comunas, donde reside el 1% de la población, mostraron mejora simultanea en crecimiento, reducción de pobreza y reducción de desigualdad. Incluso, un 34% de las comunas no mostraron mejora significativa en estas dimensiones. [@modregoHeterogeneidadTerritorialDesarrollo2016]
 
-- RIMISP
-    - intermedios rurales urbanos
-    - indicadores formalidad, participacion laboral, diversidad economica
+Esta desigualdad territorial explica alrededor de un tercio de la desigualdad de oportunidades en el pais. Incluso un 20% de los territorios en Chile pueden considerarse como trampas de pobreza, manteniendo niveles de pobreza persistentemente más altos que el resto del país. [@bebbington2017poverty]
 
-- Pequeños agricultores
+Entre las fuerzas que generan y hacen persistentes estas desigualdades encontramos las economías de aglomeracio´n que favorecen la concentración de inversión privada en territorios aventajados. Donde el gasto público tiende a seguir la distribucion del gasto privado. [@arocaSpatialConcentrationLatin2016]
 
-Factores Contributivos
+Sin embargo, existen territorios que logran generar dinámicas de crecimiento inclusivo y comparten ciertas características [@berdegueCitiesTerritoriesInclusive2015]. Estos territorios tienen
 
-- Falta de Infraestructura
+- Estructuras productivas diversificadas, con empresas de propiedad de actores locales y capaces de generar encadenamientos prouctivos y multiplicadores de empleo entre sectores.
 
-Areas de servicio
+- Caracteristicas gteograficas y de infraestructura de transporte, comunicacion y servicios basicos que favorece vínculo con mercados dinámicos
 
-- Barreras Geográficas
+- Marco institucional adecuado
 
-- Acceso insuficiente a mercados
+Es así que logran atraer inversiones públicas y manejarlas de forma eficiente. Contando con coaliciones sociales transformadores que sostitnen una visión de desarrollo y que se componen por constelaciones de actores publicos, privado sy de la sociedad civil. [@berdegueExplainingSpatialDiversity2015]
 
-- Falta de vehiculos de carga motorizados
+La cercanía y vínculos de una zona rural con una ciudad pequeña o mediana son importantes para generar dinámicas virtuosas. Estos vínculos rurales-urbanos se expresan a través de flujos recíprocos de personas, bienes, servicios, dinero y servicios medioambientales. 
 
-- Pobreza urbana vs rural
+"Rural" o "Urbano pueden definir el lugar de resdiencia de las personas pero no las estrategias de vida, las cuales son mas diversificadas en el espacio. Muchoshogaer rurales dependen de manera crecient de empleos en la ciudad.
 
-- Apertura de economias a comercio internacional
+El potencial de estas ciudades está en los mercados laborales[@christiaensenPovertyReductionRural2014]
 
-- Desigualdades en educacion y servicios sociales 
+## Ruralidad Intermedia
 
-- Acceso a crédito
+En linea con estos territorios de oportunidades, el análisis de los territorios rurales-urbanos en Chile, que son compuestos por una ciudad de entre 18 mil y 300 mil habitantes y su entorno rural, muestran que tienen características que los diferencias de los territorios rurales y urbanos metropolitanos. [@cazzuffiCrecimientoInclusionTerritorios2020]
+
+- Cuentan con una estructura productiva significativamente más diversificada que la del resto de los territorios
+
+- Concentran parte importante del empleo en sectores basados en recursos naturales
+
+- Muestran características intermedias en el continuo metropolitano - rural.
+
+    - Capital humano, participación laboral femenina, formalidad laboral, dotacion de bienes y servicios son menores que las zonas urbanas pero mucho más altas que las zonas rurales aisladas.
+    
+- En su desarrollo estos territorios muestran la importancia de los bienes públicos para el crecimiento inclusivo, y que no basta con diversificación económica que produce crecimiento, ya que no logra por si misma disminuir la desigualdad y la pobreza.
+
+Estos territorios son importantes porque concentran potencial de crecimiento inclusivo
+

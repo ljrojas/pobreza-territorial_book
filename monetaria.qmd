@@ -1,22 +1,49 @@
 # Pobreza Monetaria
 
-Para caracterizar el bienestar y las carencias de la población y así guiar y evaluar el desarrollo de políticas públicas se recurre al análisis de la pobreza.
+Para caracterizar el bienestar y las carencias de la población y así guiar y evaluar el desarrollo de políticas públicas se recurre al análisis de la pobreza. Con este análisis se busca capturar la capacidad o falta de capacidades que tienen las personas de desarrollarse e integrarse dentro de la sociedad. 
 
-Con este análisis se busca capturar la capacidad que tienen las personas de desarrollarse e integrarse dentro de la sociedad. 
+Tradicionalmente en Chile se ha medido a partir del ingreso total per cápita de los hogares, lo que fue actualizado el año 2013.  
 
-En general esto se ha realizado mediante el estudio de los ingresos monetarios de las personas; buscando de cierto modo caracterizar la capacidad de satisfacer las necesidades básicas de los hogares o personas con sus ingresos monetarios.
+Sin embargo se reconoce que la pobreza es un fenómeno más complejo que la falta de ingresos para adquirir una canasta básica de consumo, y que se expresa en un conjunto de carencias en distintas dimensiones. Esto último motivó el desarrollo de la metodología de Pobreza Multidimensional, revisada en detalle en otro apartado.
 
-## Línea de Pobreza
+## Análisis de Pobreza
 
 El análisis de la pobreza implica en general lograr *Identificar* a los hogares y las personas que se encuentran en situación de carencias y luego *Agregar* de manera consistente para caracterizar a la población general.
 
 Este proceso de identificación implica definir un **umbral mínimo** bajo el cual la persona se encuentra en situación de pobreza. Es así que el análisis implica un elemento normativo, al definir la llamada **línea de pobreza**. Esta definición impacta directamente luego la agregación y con esto cómo se caracteriza la evolución del indicador en el territorio.
 
-La idea sería entonces que esta definición de umbral mínimo logre capturar adecuadamente el poder contar con recursos suficientes para desarrollarse e insertarse dentro de la sociedad en al cual se participa.
+La idea sería entonces que esta definición de umbral mínimo logre capturar adecuadamente el poder contar con recursos suficientes para desarrollarse e insertarse dentro de la sociedad en al cual se participa. Es decir, el metodo de analisis de la pobreza a partir de ingresos considera el ingreso como un indicador de nivel de vida o de capacidad de satisfacción de necesidades básicas.
 
-Canasta basica
+### Metodología Tradicional: por Ingresos
 
-## Ingresos Autónomos y Subsidios
+La metodología usada desde los años 80 hasta el 2013 es una metodología basada en ingresos, y considera tanto la pobreza como la pobreza extrema o indigencia. 
+
+Para la pobreza extrema se considera una Canasta Básica de necesidades Alimentarias (CBA) la cual permite identificar si los ingresos percapita del hogar logran financiar el valor de esta canasta, lo que equivale a tener ingresos suficientes para alimentarse. Por otro lado, se considera una canasta ampliada de necesidades alimentarias y no alimentarias para identificar si el hogar está en situación de pobreza. Con esto la linea de pobreza extrema es la CBA y la linea de pobreza es la Canasta Alimentaria y No Alimentaria.
+
+Los patrones de consumo de los hogares son registrado en la Encuesta de Presupuestos Familiares, del INE, con esto, se diferencia entre la canasta de zonas urbanes y rurales. Principalmente porque en las zonas rurales el autoconsumo es mayor.
+
+La medición de los ingresos se realiza mediante la encuesta CASEN.
+
+### Actualización de Metodología de medición de la pobreza.
+
+Durante el año 2013 se realizó una actualización de la medición que considera 
+
+Esta implica cambiar el cálculo de la linea de pobreza del hogar, que en inicia correspende al costo de la canasta básica por el número de integrantes dividido por la proporción de consumo de alimentos en el consumo total. La innovación considera escalas de equivalencia en el consumo del hogar, con lo que al aumentar el numero de integrantes del hogar, la linea de pobreza aumenta menos que proporcionalmente (el gasto aumenta menos que proporcionalmente). Con esto se considera una "linea de pobreza por persona equivalente". Mientras que la linea de pobreza extrema corresponde a 2/3 de la linea de pobreza por persona equivalente.
+
+Esta modificación considera la ocurrencia de economías de escala en el consumo de bienes dentro del hogar, lo que ocurre cuando existen bienes compartidos, como por ejemplo la calefacción. Se usa un parametro de escala de equivalencia uniparametrica, que va entre 0 y 1, para elevar el tamaño del hogar. Donde 0 corresponde a economias de escala absolutas y 1 un bienestar que es el ingreso per capita. El parametro usado en Chile es 0,7.
+
+### Canasta Básica de Alimentos
+
+
+### Ingresos
+
+- Medición de Ingresos
+
+- Ingresos Considerados
+
+- Imputación de datos faltantes
+
+- Eliminacion de ajuste de los ingresos a cuentas nacionales
 
 ## Vulnerabilidad
 
