@@ -1,1 +1,14 @@
 # Pobreza Energética
+
+- Acceso Electricidad
+
+- Coccion Fuente Contaminante
+
+- Calefaccion Fuente Contaminante
+
+- Gasto Insuficiente (Hidden Poverty)
+
+- Gasto Excesivo (Excesiva participación en presupuesto)
+
+Complementa Vivienda y Entorno ya que el acceso a servicios solo considera agua potable y eliminacion de excretas
+

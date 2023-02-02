@@ -1,12 +1,56 @@
 # Pobreza Rural
 
+- Definicion ruralidad
+    - Cambia por pais
+    - densidad de poblacion
+    - superficie
+    - distancia centros urbanos
+    - servicios basicos
+    
+
+Mayor dispersión, infraestructura insuficiente, falta de acceso a oportunidades, distancia de mercados.
+
+## Factores Contributivos
+
+### Falta de Infraestructura
+
+Mejor movilidad y conectividad dependen de contar con caminos adecuados que permitan el acceso a servicios
+
+### Barreras Geográficas
+
+Zonas de dificil acceso, generan problemas de aislamiento. En Chile podemos pensar en zonas cordilleranas, archipielagos o islas.
+
+### Acceso Insuficiente a Mercados
+
+Debido a infraestructura no adecuada o baja productividad, educación limitada o informacion insuficiente. Esto limita acceso a trabajo y capital.
+
+Empleo predominantemente agricola implica altas tasas de informalidad y falta de oportunidades.
+
+Falta de acceso a capital y recursos financieros.
+
+### Politicas Macro
+
+Apertura a comercio internacional y politicas neoliberales han aumentadao la desigualdad espacial. 
+
+### Servicios sociales y educacionales inadecuados
+
+La falta de acceso a educacion y oportunidades limitadas inhiben la movilidad social. Esto tambien implica que los jóvenes dejen los sectores rurales migrando a zonas urbanas en bpusqueda de oportunidades educacionales y laborales.
+
+## 
+
+Diferenciar acceso a recursos propios, parselas de agrado y loteos irregulares. Personas de altos recursos que optan por segunda vivienda o trasladarse a la ruralidad por opción.
+
 - RIMISP
+    - intermedios rurales urbanos
+    - indicadores formalidad, participacion laboral, diversidad economica
 
 - Pequeños agricultores
 
 Factores Contributivos
 
 - Falta de Infraestructura
+
+Areas de servicio
 
 - Barreras Geográficas
 

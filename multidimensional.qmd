@@ -1,5 +1,17 @@
 # Pobreza Multidimensional
 
+Con el objetivo de caracterizar de manera más comprehensiva el fenómeno de la pobreza y permitir la elavoración y evaluación de políticas públicas más amplias es que se desarrolla el concepto de Pobreza Multidimensional.
+
+Bajo estos esfuerzos se busca incorporar otros ámbitos de carencia además de los realacionados al ingreso monetario, cosa de contar con un panorama más completo del estado de la sociedad.
+
+La inclusión de dimensiones e indicadores en estos esfuerzos está sujeta a amplias discusiones de expertos, el sector público e instituciones. Esto porque además de identificar ámbitos relevantes es necesario definir umbrales mínimos para identificar las carencias claves.
+
+En Chile la pobreza multidimensional se mide desde el año ...
+
+En un comienzo se incluyeron cuatro dimensiones: Educación, Salud, Trabajo y Seguridad Social y Vivienda. Luego se modifico la dimensión de Vivienda para incluir Entorno y se añadió la dimensión de Redes y Cohesión Social.
+
+La medición de la pobreza multidimensional se realiza mediante la encuesta CASEN.
+
 ## Salud
 
 ## Educacion
