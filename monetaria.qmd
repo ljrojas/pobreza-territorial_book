@@ -16,7 +16,7 @@ La idea sería entonces que esta definición de umbral mínimo logre capturar ad
 
 ### Metodología Tradicional: por Ingresos
 
-La metodología usada desde los años 80 hasta el 2013 es una metodología basada en ingresos, y considera tanto la pobreza como la pobreza extrema o indigencia. 
+La metodología usada desde los años 80 hasta el 2013 es una metodología basada en ingresos, y considera tanto la pobreza como la pobreza extrema o indigencia. [@ministeriodedesarrollosocialNuevaMetodologiaMedicion2015]
 
 Para la pobreza extrema se considera una Canasta Básica de necesidades Alimentarias (CBA) la cual permite identificar si los ingresos percapita del hogar logran financiar el valor de esta canasta, lo que equivale a tener ingresos suficientes para alimentarse. Por otro lado, se considera una canasta ampliada de necesidades alimentarias y no alimentarias para identificar si el hogar está en situación de pobreza. Con esto la linea de pobreza extrema es la CBA y la linea de pobreza es la Canasta Alimentaria y No Alimentaria.
 
@@ -34,22 +34,39 @@ Esta modificación considera la ocurrencia de economías de escala en el consumo
 
 ### Canasta Básica de Alimentos
 
+La canasta básica de alimentos es el conjunto de bienes que en conjunto generan la linea de pobreza. En el país se consudera un umbral de 2000 calorias promedio por persona. Su construcción se realiza en base a la información recopilada por la Encuesta de Presupuestos Familiares del INE.
+
+Además su composición fue determinada a partir del gasto del grupo de la población correspondiente al quintil de hogares de menores ingresos, este se denomina el grupo de referencia.
+
+Para estimar el consumo calórico se usan datos de precios usadas en el cálculo del IPC y mediante una estimación indirecta, de acuerdo a los presupuestos y gastos de los hogares, se calcula el consumo calórico del grupo de referencia y su composición. El detalle de este proceso se puede encontrar en [@ministeriodedesarrollosocialNuevaMetodologiaMedicion2015]
 
 ### Ingresos
 
-- Medición de Ingresos
+Para caracterizar los ingresos de las personas y los hogares se utilizan los datos levantados por la encuesta CASEN. En particular se busca medir el **ingreso corriente**, el cual está compuesto por: 
 
-- Ingresos Considerados
+- Ingresos primarios: provenientes del trabajo y de la propiedad de activos
 
-- Imputación de datos faltantes
+- Transferencias corrientes: Prestaciones de seguros sociales y asistencia social
 
-- Eliminacion de ajuste de los ingresos a cuentas nacionales
+- Diversas transferencias correintes entre los hogares.
+
+Este ingreso por hogar se transforma luego a persona equivalente para ser calculado con la linea de pobreza para identificar la situación de pobreza del hogar.
+
+El ingreso considerado es entonces el ingreso corriente que se define como la suma del *ingreso autónomo del hogar* (sueldos y salarios, monetarios y en especies, ganancias por trabajo independiente, auto provisión de bienes, rentas, intereses, dividendos y utilidades, jubilaciones, pensiones, transferencias corrientes) y las *transferencias monetarias* que recibe el hogarl del Estado (aportes en dinero por programas sociales), además de una *imputación por concepto de arriendo de la vivienda* cuando esta es habitada por sus propietarios.
+
+Se realiza también un proceso de **imputación de datos faltantes de ingresos** esto debido a los errores de respuesta en las encuestas de hogares, por sub o sobre declaración. A raiz de esto se realiza imputación de datos en aquellas personas o hogares que debiendo reportar ingreso no lo hicieron, a partir de personas u hogares de similares caracteristicas en la encuesta. El detalle de este proceso se encuentra en [@ministeriodedesarrollosocialNuevaMetodologiaMedicion2015]
+
+Finalmente, en esta actualización de la metodología se eliminó el ajuste de los ingresos a cuentas nacionales.
 
 ## Vulnerabilidad
 
-Se puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.
+Se puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Esto implica considerar la pobreza como un fenómeno estocástico. 
 
-De cierto modo la linea de vulnerabilidad es una banda que se le aplica a la linea de pobreza.
+Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.[@chaudhuri2003assessing]
+
+Una manera simple de analizar esto sería ampliar con una banda superior la linea de pobreza, ya que los hogares con ingresos levemente por sobre la linea de pobreza estarían en mayor riesgo. Otros enfoques buscan estimar el ingreso futuro [ @kamanouMeasuringVulnerabilityPoverty2002]
+
+De todas formas el riesgo de caer en pobreza es también un elemento relevante para analizar el bienestar de las personas, ya que puede generar malestar y disminuir la seguridad hacia el futuro y expectativas de los hogares en situación de vulnerabilidad.
 
 ## Datos y Representatividad
 
