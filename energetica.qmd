@@ -1,5 +1,7 @@
 # Pobreza Energética
 
+Una dimensión adicional de la pobreza tiene que ver con el acceso y uso a energías, las cuales son centrales para la inclusión ciudadana digital o para las tareas hogareñas más básicas. El no contar con fuentes seguras, no contaminantes y confiables puede ser una carencia y una limitante importante para el desarrollo de las personas.
+
 - Acceso Electricidad
 
 - Coccion Fuente Contaminante

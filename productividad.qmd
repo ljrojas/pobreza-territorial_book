@@ -1,6 +1,10 @@
 # Productividad Local
 
-En base al documento del laboratorio de la OCDE para la productividad territorial [@/content/paper/ba5edb47-en]
+En general se considera que la productividad está relacionada con la capacidad de las economías de generar bienes y servicios, y con estos mayor bienestar. Esta se define burdamente como la capacidad de transformar factores productivos en bienes y servicios, y es mayor cuando se puede produce más con relativamente los mismos factores. Es así que la adopción tecnológica o la innovación son centrales para estos análisis.
+
+La literatura examina una serie de determinantes desde perspectivas individuales de empresas o agregadas a nivel de sectores productivos. Adicional a estas es necesario considerar factores territoriales y la expresion de los determinantes en el territorio, a raiz de las crecientes disparidades subnacionales y los patrones de disminución de crecimiento de la productividad.
+
+El siguiente análisis se basa en el documento del laboratorio de la OCDE para la productividad territorial [@/content/paper/ba5edb47-en]
 
 ## Determinantes Productividad
 
@@ -64,12 +68,36 @@ Desde una perspectiva territorial, reconociendo que la falta de financiamiento p
 
 El efecto sobre productividad de Instituciones, Regulación y Políticas se manifiesta de forma indirecta al influenciar el resto de determinates ya mencionados. Esto porque las institcuiones definen el "espacio" donde se juega, formando una estructura de incentivos. Es por esto que una relación causal es dificil de establecer, ya que es un conjunto de instituciones disimiles las que definen la estructura, llamado tambien infaestructura social. Sin embargo, la protección de derechos de propiedad es particularmente relevante.
 
+Aunque las políticas aplicadas sean ciegas al espacio, su impacto no necesarimente es neutral en el espacio. Esta dimensión espacial de las instituciones se refuerza por las caracteristicas regionales. La distancia de las regiones de la frontera productiva incluencia qué regiones son más responsibas a políticas estructurales. Así mismo, regiones remotas son más afectadas por políticas que impiden emprendimiento, o políticas laborales tienen efectos desiguales en regiones urbanas y aglomeradas comparado a areas rurales dispersas. El mix de composición de industrias regional también afectará ya que ciertas industrias son más responsivas a las políticas, debiendo considerarse el mix de empresas grandes y pequeñas en la región. Por último, las politicas pueden diferir en su implementación en el espacio, ya que la calidad del gobierno local puede variar sustantivamente dentro de cada región.
+
 ## Determinantes Espaciales
+
+La literatura de ciencia regional examina en detalle los factores directamente relacionado al espacio, a continuación se revisan algunos de estos elementos.
 
 ### Geografia y Fronteras
 
+El efecto del territorio en sus formas y disponibilidad de cursos de agua historicamente ha dado forma a oportunidades económicas. Las cuales, luego a través del legado de la composición industrial generada, continua impactando el comportamiento humano y los resultados socioeconómicos. Es así que areas más "rugosas" con caracteristicas protectoras del ambiente pueden generar fragmentación política en la forma de bordes y nacionaes. Los bordes afectan el espacio socio-económico y sus procesos, al aumentar los costos de transacción. Esta discontinuidad del espacio se vincula con diferentes marcos legales además de diferencias culturales y de lenguaje entre otras. La cercanía a los bordes también genera comunmente regiones que se desempeñan peor debido a la discontinuidad espacial y la distancia de los mercados centrales del país.
+
 ### Economias de Aglomeracion
 
-### Infraestructura
+El vínculo entre aglomeraciones urbanas y productividad está bien documentado teórica y empíricamente. Estas economías de aglomeración ocurren cuando las personas y empresas se co-ubican. Las fuentes de estas economias son las externalidades tecnologicas, la aglomeración de trabajadores y vinculos de input intermedios, que implican compartir, coincidir y aprender.
+
+El efecto se compone de algomeracion pura (trabajadores y empresas se hacen más productivos en ciudades) y un efecto de seleción (inicialmente los trabajadores y firmas más productivas se ubican en las ciudades). Los mecanismos incluyen un mejor match entre trabajadores y empresas, el aprender haciendo en la ciudad, existiendo un efecto de aprendizaje por estar situado en areas urbanas más grandes. Por otro lado, empresas ubicadas en proximidas son más probables de aprender de otras y adoptar estrategias exitosas de sus vecinos.
+
+Estas dinámicas pueden levantar los resultados económicos de las areas colindantes, si estan bien conectadas, enlos llamados "hinterlands". Estos efectros se han llamado efectos de difusión de aglomeración (Aglomeration Spread Effects). El motor de esto son la demanda urbana de bienes, servicios y equipamientos rurales y por el acceso rural a los mercados urbanos. Con esto las ciudades pequeñas y las areas rurales alrededor de ciudades más grandes pueden acceder a los beneficios de las economias de aglomeracion sin estar en una aglomeración, mediante este "tamaño prestado". Sin embargo, si la conectividad es mala, la congestión impide a los residentes urbanos vivir y gastar en areas rurales y cortando los emprendimientos rurales de los mercados urbanos. 
+
+### Infraestructura tradicional y digital
+
+La inversión en infraestructura es un componente común de la política de desarrollo regional. Estos objetos de infraestructura, como carreteras, aeropuertos, redes de comunicación y redes eléctricas, facilitan el acceso a nuevos recursos y aumental la productividad de los existentes. Además son bienes no exclusivos, por lo que generan externalidades positivias, fortalecioendo las externalidades de aglomeración. La cuantificación de su efecto, sin embargo, es una tarea dificil. 
+
+El impacto se puede apreciar mediante la reducción de costos de transpoerte, que aumentan la productividad de empresas locales. Además su impacto va más allá de los lugares donde se realizan, afectando regiones periféricas. Aunque pueden generar un efecto de desplazamiento en estas regiones.
+
+Al facilitar el movimiento de personas, afectan las decisiones de ubicación de las empresas. La proximidad de aeropuertos es importante. Al inducir concentracióin de persronas y empresas pueden influenciar la distribución de la actividad económica en el espacio.
+
+Las telecomunicaciones, por otro lado, reducien costos de comunicación y permiten expansión de mercados e intercambio de información. El internet permite también acceso a mercados globales con consumidores potenciales y proveedores, además de minimizar costos de transacción al impactar operaciones de administración como el contacto con clientes.
 
 ### Gobernaza, provision de bienes publicos
+
+Las economías de aglomeración implican también un conjunto de desafíos que es necesario gestionar, tales como contaminación, congestión, salubridad pública y sanitización. La estrctura urbana de gobernanza usalmente difiere en su nivel de fragmentación. Mayor fragmentación podría mejorar la calidad de provisión de bienes públicos por competencia, sin embargo también aumenta los costos de coordinación. Por ejemplo, las areas funcionales urbanas (definidas por patrones de actividad economica) usualmente no coinciden con los bordes administrativos. Esta discordancia espacial pueden empeorar los resultados económicos al añadir burocracias, congestión y disminuyendo el atractivo regional para los trabajadores altamente calificados.
+
+Incluso existe la posibilidad de que las unidades de gobierno local no logren reconocer las externalidades positivas que ocurren a nivel de area funcional. Esto afectaría tambien el bienestar mediante sistemas de transporte ineficientes, falta de remosión de basura, mayor contaminación y otras fallas de coordinación. Estos efectos también dependerían de las funciones de gobierno y el continuo urbano rural.

@@ -1,5 +1,7 @@
 # Movilidad Intergeneracional
 
+Una forma de revisar las oportunidades que entregan los territorios es el concepto de movilidad intergeneracional. Este indica la probabilidad de que una persona cuyos padres pertenezcan a un quintil de ingresos determinado pueda a lo largo de su vida mejorar su posición relativa, o mantenerse. Para evaluar esto se necesitan datos detallados de los ingresos de las personas y sus familias en el tiempo.
+
 La Movilidad Intergeneracional (IGM) analiza el grado en que los recursos familiares se transfieren de padres a hijos. Distintas refinaciones de estos estudios analizan el rol de la inversión en capital humano y su productividad, qué tan heredables son los privilegios y preferencias. 
 
 En Chile esto ha sido estudiado recientemente con datos administrativos vinculando ingresos de padres e hijos para analizar el cambio en el ranking de ingresos de una generación a otra para distintas regiones del país.[@cortes-orihuelaDecentralizingChileanMiracle2022]. 
