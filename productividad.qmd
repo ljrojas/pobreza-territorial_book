@@ -1,28 +1,68 @@
 # Productividad Local
 
-OCDE trento spatial lab
+En base al documento del laboratorio de la OCDE para la productividad territorial [@/content/paper/ba5edb47-en]
 
 ## Determinantes Productividad
 
+Existen variados estudios sobre los determinantes de la productividad a nivel agregado, de industria y de firmas. Estos se mencionan a continuación, dando un enfoque local siguiendo el trabajo de [@/content/paper/ba5edb47-en]
+
 ### Tecnologia e Investigacion y Desarrollo
+
+La innovación es un prerequistio para la actividad productivida al generar la tencologia necesario. Con las tecnologias de información el progreso tecnologico se ha vuelto un motor importante para el crecimiento de la prodictividad. Las actividades de investigacion y desarrollo aumentan la innovacion para tambien contribuyen a generar mayor capacidad de absorcion de firmas e industrias y por tanto tener mayores beneficios de las actividades innovativas.
+
+A nivel territorial, se consdiera que la proximidad geografica es importante para el intercambio de conocimiento, en hubs de conocimiento. Esto se manifiesta en distintos canales, como la presencia de universidades de investigacion, laboratorios, industrias intensivas en investigacion, capital humano altamente educado, infraestructura de soporte de investigación como capital semilla, capital de riesgo, redes formale se informales y otros. Esto puede formar un sistema regional de innovacion. 
+
+Es relevante tambien aumentar la capacidad de absorcion de conocmimento de la las empresas. Ya que la dimension espacial se manifiesta en los patrones de adopcion y efectos en productividad de los avances tecnologicos.
 
 ### Difusión de Conocimiento
 
-Vinculos universidades
+Luego de que una tecnologia es creada, es necearia su difusión y absorción para que genere mejoras en productividad. La difusión de conocimiento se vuelve central en un mundo globalizado con empresas multinacionales, inversion extrangera directa y cadenas de valor globales. Además de afectar los resultados de sus empresas, la inversion extranjera directa y las empresas multinacionales pueden aumentar la productividad de las empresas domesticas en empreas relacionados mediante externalidades.
 
-Redes de conocimiento internacional
+A nivel subnacional, las dinamicas locales se muestran importantes para la difusion de conocimiento. Los activos locales afectan las decisiones de ubicacion de las empreas multinacionales, como cadenas de valor que se centran en cluster de produccion reginoales. Activos intangibles regionales como capital humano, redes locales y masa critica de actores innovadores puden ser recursos centrales y ventajas para empresas multinacionales. Es así como las universidades muchas veces facilitan la difusion de conocimiento entre empresas.
 
 ### Emprendimiento y Rotacion de Empresas
 
+La innovación además de aumentar la productividad de las empresas innovadoras, intensifica la competencia, que fuerza a las empresas incumbentes a aumentar su eficiencia, facilitando la reasignación de recursos a negocios más eficientes. En línea con el argumento de destrucción creativa, las empresas innovadoras reemplazan las menos innovadoras. Es así que existen modelos donde la entrada y salida de mercado de empresas puede mejorar la productividad. La entradade empresas mejora la productividad por distintos canales: startups implementan nuevas tecnologias, además de generar presión competitiva a mejorar eficiencia. Por otro lado existe literatura que estudia los efectos del comercio internacional en la productividad.
+
+En su dimensión espacial, además de incorporar las tasas de startups y salida de empresas, se considera el concepto de Ecosistemas de Emprendimiento (EE) definidos como una serie de actores empresariales, organizaciones e instituciones interconectadas quecoalecen formal e informalmente para mediar y gobernar el desempeño del entorno de emprendimiento local. Este enfoque de vinculos es escencialmente determinado geograficamente. Siendo precondición de éxito de conceptos como cluster industriales, sistemas de innovación y economía del conocimiento. Dentro de este enfoque la presencia de universidades y centros de investigación y oficinas de transferencia tecnológica juegan un rol central. Además del capital humano regional, que incluye además de educación el conocimiento de administración, la cultura de aceptación del fracaso y reciclado del emprendimiento.
+
 ### Capital Humano
+
+El vinculo de capital humano y productividad se manifiesta al menos en tres canales: habilidades empresariales (manejo de empresa, eleccion de tecnologia, asignacion de recursos), nivel de capital humano (fuerza de trabajo mas educada) y calidad del capital humano (mayor innovación). 
+
+En su dimensión espacial, se destaca la heterogeneidad de la calidad del capital humano en el espacio subnacional. Además del debate respecto de si los trabajo siguen a las personas o las personas siguen los trabajos. Esta migración interna se acentúa para trabajadores altamente calificados, los cuales son más probables de elegir dónde vivir. Es así que existe una concentración en zonas urbanas, donde existan suficientes equipamientos y servicios, en una co-localción de trabajos y servicios de alta calidad.
+
+### Perfiles y tendencias demográficas
+
+Existe un debate sobre la composición etárea de la fuerza de trabajo y su impacto en productividad. Esto porque se puede esperar un deterioro de productividad al aumentar la edad y disminuir la fuerza fisica o deteriorarse la salud, lo cual puede ser contratado por experiencia acumulada y habilidad mental. 
+
+Asi mismo es relevante la tasa de dependencia, que es el porcentaje de población que no trabaja a la población en edad de trabajar. Esta se considera en general con efecto negativo en productividad. Sin embargo, con los ultimos avances tecnologicos, paises con baja tasa de crecimiento de la fuerza laboral estarían más presionados a adoptar tecnologías más eficientes en recursos laborales y de automatización.
+
+Siendo que los perfiles demográficos y etáreos difieren sustantivamente dentro de los páises, sobre todo entre las áreas rurales y urbanas, se encuentra que la laiteratura a nivel regional no ha logrado considerar el rol mitigador de productividad de la estructura etarea. Principalmente por foco solo en un país, y encontrando resultados contradictorios. Una perspectiva regional internacional reciente para países OCDE encuentra que el crecimiento de productividad regional no es suficiente en varias regiones para superar el efecto de la estructura etarea.
 
 ### Finanzas
 
-### Instituciones
+Los sistemas financieros se vinculan al crecimiento económico mediante cinco canales: 
 
-### Regulacion y Politicas
+- Producen informacion sobre posibles inversiones y asignación de recursos
 
-### Perfiles y tendencias demográficas
+- Monitorean inversiones y ejercen control corporativo
+
+- Facilitan el manejo, diversificacion e intercambio de riesgo
+
+- Mobilizan y consolidan ahorros
+
+- Facilitan el intercambio de bienes y servicios.
+
+Además existen mecanismos indirectos por los cuales influencian el desempeño productivo, estos se relacionan a los dinámicas económicas, innovatividad de empresas y acumulación de capital físico y humano.
+
+Cuando funcionan bien, los sistemas financieros permiten acceso a crédito a start ups prometedores, dando recursos para inversión en I+D, capital y trabajo. Es así que las políticas que aseguran un sistema financiero eficiente son precondición para una vínculo positivo entre productividad y finanzas.
+
+Desde una perspectiva territorial, reconociendo que la falta de financiamiento puede ser un impedimento al crecimiento, se encuentra que el acceso a finanzas es especifico del lugar. Es así que las oportunidades de inversión se aglomeran de forma desproporcionada en grandes ciudades, potencialmente perjudicando el desempeño de compañias en regiones menos centrales. Sin embargo la evidencia de beneficios por cercania a finanzas no es conclusiva, encontrando efectos positivos o ningun efecto. Aun asi el acceso dependiente del espacio puede afectar otros indicadores económicos relevantes para el desepeño productivo.
+
+### Instituciones, Regulacion y Politicas
+
+El efecto sobre productividad de Instituciones, Regulación y Políticas se manifiesta de forma indirecta al influenciar el resto de determinates ya mencionados. Esto porque las institcuiones definen el "espacio" donde se juega, formando una estructura de incentivos. Es por esto que una relación causal es dificil de establecer, ya que es un conjunto de instituciones disimiles las que definen la estructura, llamado tambien infaestructura social. Sin embargo, la protección de derechos de propiedad es particularmente relevante.
 
 ## Determinantes Espaciales
 

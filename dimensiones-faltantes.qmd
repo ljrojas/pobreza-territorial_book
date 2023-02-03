@@ -1,5 +1,21 @@
 # Dimensiones Faltantes
 
-OPHI: Oxford Poverty H Initiative
+La iniciativa de Oxford para el Desarrollo Humano y la Reducción de la Pobreza (OPHI, por sus siglas en inglés), es un centro de investigación del Departamento de Desarrollo Internacional de la Universidad de Oxford. Es dirigido por la Dr. Sabina Alkire y busca construir e impulsar un marco metodolóico y económico más sistemático para la reducción de la pobreza multidimensional.      
 
-Zavaleta
+Las llamadas dimensiones faltantes hacen referencia a elementos de calidad de vida que son relevantes para las personas pobres pero que son dificiles de medir con instrumentos tradicionales. Están relacionadas a la percepción de las personas. Buscan poner el foco en aspectos psicológicos, sociales, culturales y económicos relativos a la vida de las personas. En si mismas representan un enfoque multidimensional.
+
+Los esfuerzos y publicaciones relacionadas a este tema [@initiativeophiDimensionesFaltantesMedicion2016] se enfocan también en proponer formas de obtener información y mediciones estadísticas sobre estas temáticas. Proponiendo formas de preguntar y analizar estos datos, con el objetivo de que sean incorporadas en las mediciones multidimensionales de pobreza de los países.
+
+Estas dimensiones consideran:
+
+- Empoderamiento y Agencia
+
+- Seguridad Física
+
+- La capacidad de ir por la vida sin sentir verguenza
+
+- Calidad del empleo
+
+- Conectividad social
+
+- Bienestar psicológico y subjetivo
