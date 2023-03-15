@@ -1,0 +1,10 @@
+vulnerabilidad
+	world bank
+		income tereshold -> elevated risk of sliding into poverty
+
+	lopez calva & ortiz juares 2011
+	ferreira et al 2013
+	birdsall et al 2014
+	hardy 2014-
+
+

@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -207,7 +226,7 @@ ul.task-list li input[type="checkbox"] {
 <p>La idea sería entonces que esta definición de umbral mínimo logre capturar adecuadamente el poder contar con recursos suficientes para desarrollarse e insertarse dentro de la sociedad en al cual se participa. Es decir, el metodo de analisis de la pobreza a partir de ingresos considera el ingreso como un indicador de nivel de vida o de capacidad de satisfacción de necesidades básicas.</p>
 <section id="metodología-tradicional-por-ingresos" class="level3" data-number="3.1.1">
 <h3 data-number="3.1.1" class="anchored" data-anchor-id="metodología-tradicional-por-ingresos"><span class="header-section-number">3.1.1</span> Metodología Tradicional: por Ingresos</h3>
-<p>La metodología usada desde los años 80 hasta el 2013 es una metodología basada en ingresos, y considera tanto la pobreza como la pobreza extrema o indigencia.</p>
+<p>La metodología usada desde los años 80 hasta el 2013 es una metodología basada en ingresos, y considera tanto la pobreza como la pobreza extrema o indigencia. <span class="citation" data-cites="ministeriodedesarrollosocialNuevaMetodologiaMedicion2015">(<a href="references.html#ref-ministeriodedesarrollosocialNuevaMetodologiaMedicion2015" role="doc-biblioref">de Desarrollo Social 2015</a>)</span></p>
 <p>Para la pobreza extrema se considera una Canasta Básica de necesidades Alimentarias (CBA) la cual permite identificar si los ingresos percapita del hogar logran financiar el valor de esta canasta, lo que equivale a tener ingresos suficientes para alimentarse. Por otro lado, se considera una canasta ampliada de necesidades alimentarias y no alimentarias para identificar si el hogar está en situación de pobreza. Con esto la linea de pobreza extrema es la CBA y la linea de pobreza es la Canasta Alimentaria y No Alimentaria.</p>
 <p>Los patrones de consumo de los hogares son registrado en la Encuesta de Presupuestos Familiares, del INE, con esto, se diferencia entre la canasta de zonas urbanes y rurales. Principalmente porque en las zonas rurales el autoconsumo es mayor.</p>
 <p>La medición de los ingresos se realiza mediante la encuesta CASEN.</p>
@@ -220,21 +239,30 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="canasta-básica-de-alimentos" class="level3" data-number="3.1.3">
 <h3 data-number="3.1.3" class="anchored" data-anchor-id="canasta-básica-de-alimentos"><span class="header-section-number">3.1.3</span> Canasta Básica de Alimentos</h3>
+<p>La canasta básica de alimentos es el conjunto de bienes que en conjunto generan la linea de pobreza. En el país se consudera un umbral de 2000 calorias promedio por persona. Su construcción se realiza en base a la información recopilada por la Encuesta de Presupuestos Familiares del INE.</p>
+<p>Además su composición fue determinada a partir del gasto del grupo de la población correspondiente al quintil de hogares de menores ingresos, este se denomina el grupo de referencia.</p>
+<p>Para estimar el consumo calórico se usan datos de precios usadas en el cálculo del IPC y mediante una estimación indirecta, de acuerdo a los presupuestos y gastos de los hogares, se calcula el consumo calórico del grupo de referencia y su composición. El detalle de este proceso se puede encontrar en <span class="citation" data-cites="ministeriodedesarrollosocialNuevaMetodologiaMedicion2015">(<a href="references.html#ref-ministeriodedesarrollosocialNuevaMetodologiaMedicion2015" role="doc-biblioref">de Desarrollo Social 2015</a>)</span></p>
 </section>
 <section id="ingresos" class="level3" data-number="3.1.4">
 <h3 data-number="3.1.4" class="anchored" data-anchor-id="ingresos"><span class="header-section-number">3.1.4</span> Ingresos</h3>
+<p>Para caracterizar los ingresos de las personas y los hogares se utilizan los datos levantados por la encuesta CASEN. En particular se busca medir el <strong>ingreso corriente</strong>, el cual está compuesto por:</p>
 <ul>
-<li><p>Medición de Ingresos</p></li>
-<li><p>Ingresos Considerados</p></li>
-<li><p>Imputación de datos faltantes</p></li>
-<li><p>Eliminacion de ajuste de los ingresos a cuentas nacionales</p></li>
+<li><p>Ingresos primarios: provenientes del trabajo y de la propiedad de activos</p></li>
+<li><p>Transferencias corrientes: Prestaciones de seguros sociales y asistencia social</p></li>
+<li><p>Diversas transferencias correintes entre los hogares.</p></li>
 </ul>
+<p>Este ingreso por hogar se transforma luego a persona equivalente para ser calculado con la linea de pobreza para identificar la situación de pobreza del hogar.</p>
+<p>El ingreso considerado es entonces el ingreso corriente que se define como la suma del <em>ingreso autónomo del hogar</em> (sueldos y salarios, monetarios y en especies, ganancias por trabajo independiente, auto provisión de bienes, rentas, intereses, dividendos y utilidades, jubilaciones, pensiones, transferencias corrientes) y las <em>transferencias monetarias</em> que recibe el hogarl del Estado (aportes en dinero por programas sociales), además de una <em>imputación por concepto de arriendo de la vivienda</em> cuando esta es habitada por sus propietarios.</p>
+<p>Se realiza también un proceso de <strong>imputación de datos faltantes de ingresos</strong> esto debido a los errores de respuesta en las encuestas de hogares, por sub o sobre declaración. A raiz de esto se realiza imputación de datos en aquellas personas o hogares que debiendo reportar ingreso no lo hicieron, a partir de personas u hogares de similares caracteristicas en la encuesta. El detalle de este proceso se encuentra en <span class="citation" data-cites="ministeriodedesarrollosocialNuevaMetodologiaMedicion2015">(<a href="references.html#ref-ministeriodedesarrollosocialNuevaMetodologiaMedicion2015" role="doc-biblioref">de Desarrollo Social 2015</a>)</span></p>
+<p>Finalmente, en esta actualización de la metodología se eliminó el ajuste de los ingresos a cuentas nacionales.</p>
 </section>
 </section>
 <section id="vulnerabilidad" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="vulnerabilidad"><span class="header-section-number">3.2</span> Vulnerabilidad</h2>
-<p>Se puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.</p>
-<p>De cierto modo la linea de vulnerabilidad es una banda que se le aplica a la linea de pobreza.</p>
+<p>Se puede entender la vulnerabilidad como el riesgo de caer en situación de pobreza. Esto implica considerar la pobreza como un fenómeno estocástico.</p>
+<p>Con esto se busca identificar hogares que de ocurrir algún shock de salud o gastos inesperados su situación pase a ser de pobreza.<span class="citation" data-cites="chaudhuri2003assessing">(<a href="references.html#ref-chaudhuri2003assessing" role="doc-biblioref">Chaudhuri 2003</a>)</span></p>
+<p>Una manera simple de analizar esto sería ampliar con una banda superior la linea de pobreza, ya que los hogares con ingresos levemente por sobre la linea de pobreza estarían en mayor riesgo. Otros enfoques buscan estimar el ingreso futuro <span class="citation" data-cites="kamanouMeasuringVulnerabilityPoverty2002">(<a href="references.html#ref-kamanouMeasuringVulnerabilityPoverty2002" role="doc-biblioref">Kamanou and Morduch 2002</a>)</span></p>
+<p>De todas formas el riesgo de caer en pobreza es también un elemento relevante para analizar el bienestar de las personas, ya que puede generar malestar y disminuir la seguridad hacia el futuro y expectativas de los hogares en situación de vulnerabilidad.</p>
 </section>
 <section id="datos-y-representatividad" class="level2" data-number="3.3">
 <h2 data-number="3.3" class="anchored" data-anchor-id="datos-y-representatividad"><span class="header-section-number">3.3</span> Datos y Representatividad</h2>
@@ -246,6 +274,17 @@ ul.task-list li input[type="checkbox"] {
 <p>En general se usan modelos de Area que búscan incorporar información adicional, generalmente registros administrativos, para disminuir la varianza de la estimación en unidades territoriales con pocas unidades de muestreo. Además de la imputación por conglomerados para zonas donde no se cuentan con datos (comunas no incluidas en el diseño muestral, por ser zonas de dificil acceso)</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography" style="display: none">
+<div id="ref-chaudhuri2003assessing" class="csl-entry" role="doc-biblioentry">
+Chaudhuri, Shubham. 2003. <span>“Assessing Vulnerability to Poverty: Concepts, Empirical Methods and Illustrative Examples.”</span> <em>Department of Economics, Columbia University, New York</em> 56.
+</div>
+<div id="ref-ministeriodedesarrollosocialNuevaMetodologiaMedicion2015" class="csl-entry" role="doc-biblioentry">
+de Desarrollo Social, Ministerio. 2015. <span>“Nueva <span>Metodología</span> de <span>Medición</span> de La <span>Pobreza</span> Por <span>Ingresos</span> y <span>Multidimensional</span>.”</span> <span>Observatorio Social. Serie Docuementos Metodologicos N° 28</span>.
+</div>
+<div id="ref-kamanouMeasuringVulnerabilityPoverty2002" class="csl-entry" role="doc-biblioentry">
+Kamanou, Gisele, and Jonathan Morduch. 2002. <span>“Measuring Vulnerability to Poverty.”</span> Working Paper 2002/58. <span>WIDER Discussion Paper</span>. <a href="https://www.econstor.eu/handle/10419/53096">https://www.econstor.eu/handle/10419/53096</a>.
+</div>
+</div>
 </section>
 </section>
 

@@ -1,29 +1,103 @@
 # Bienestar Social
 
+En el presente apartado se presentan el marco metodológico de Bienestar Social desarrollado por la OCDE en los informes de Calidad de Vida, además de detallar su reciente implementación en Chile a partir de la Encuesta de Bienestar Social (EBS) la cual se realiza como un anexo a la encuesta CASEN de Pandemia. Destaca de este último los indicadores seleccionados y la decisión de no medir sustentabilidad en la encuesta.
+
+Las ideas principales de estos desarrollos se relacionan con:
+
+- las Limitantes del PIB como indicador de progreso social
+
+- Enfoque de Capacidades de Amartya Sen
+
+- Preocupación por la Sustentabilidad del Bienestar
+
+## Motivación
+
+### Limitantes del PIB
+
+Las críticas a las limitantes del PIB como indicador de bienestar son tan antiguas como su uso. Este siempre se ha entendido como una visión parcial basada en la producción de bienes y servicios, sin embargo al ser medido consistentemente permite una facil comparación y evaluación de las trayectorias de los países.
+
+A partir de la Comsión Sarkozy (2009) que se han trabajado y generado esfuerzos por ampliar los marcos estadísticos para medir de mejor manera el bienestar.
+
+Entre las críticas enunciadas por la OCDE en su infor How's Life se menciona:
+
+- No buena medida de ingreso de residentes, al incluir pagos a no residentes y excluir ingresos de residentes por pagos en otros países
+
+- Sobre estimación de producción para consumo (bienes de capital)
+
+- No informa cómo comparten recursos los individuos
+
+- No mide factores de servicio hogareños producidos por el hogar como el cuidado de niños y crianza
+
+- Algunes elementso que aumentan el PIB son reduccion de bienestar (costos de congestión, mayor tiempo de traslado) o actividades destinadas a remediar costos sociales y ambientales de produccion
+
+- Atributos claves de bienestar de individuos y comunidades no son capturados por el sistema de cuentas nacionales (estado de salud, felicidad, seguridad, conexiones sociales
+
+- No puede mostrar si el bienestar puede sustentarse en el tiempo, ya que solo integra parcialmente información de tipos de capital que sostienen el bienestar.
+
+### Enfoque Capacidades
+
+Medir el bienestar es desafiante por la necesidad de revisar e integrar distintos aspectos de la vida de las personas y su importancia relativa. Es un fenómeno complejo, donde muchos de sus determinantes se correlacionan entre sí, por lo que se necesita un marco de trabajo.
+
+La medición del bienestar se relaciona a los trabajos de Sen en sentido de que se basa en la condicion de la persona, buscando ampliar sus capacidades y opciones de las personas y comunidades. Conceptos claves serían los "resultados" o "funcionamientos logrados" que son estados o actividades que las personas alcanzan o realizan, y "oportunidades" que son las capacidades y medios que bsan lo que las personas pueden lograr. 
+
+Es así que se recalca la importancia de las libertades y las oportunidades que la sociedad genera y entrega a las personas.
+
+## Marco Teórico del Bienestar
+
+Con el objetivo de guiar la medición, se propone un marco teórico que considera tres pilares para el bienestar: Las condiciones materiales de vida, la calidad de vida y la sustentabilidad.
+
+Con esto se busca distinguir entre el bienestar hoy y mañana, siendo las condiciones materiales importantes para el primero, y para el segundo las condiciones para preservar este bienestar.
+
+El foco se centra en Hogares o Individuos (en vez de agregar condiciones para la economia nacional), Resultados de Bienestar (en vez de variables de inputs o output; estado de salud más que atenciones médicas), Distribución del bienestar entre individuos (grupos de edad, género, ingreso o socioeconómico), Aspectos Objtivos y Subjetivos del Bienestar (aspecto psicológicos de los haceres y seres de las personas).
+
+Es así que el pilar de condiciones materiales se enfoca en aspectos que afectan el bienestar hoy como los ingresos, la vivienda y el trabajo. El pilar de calidad de vida mide de manera más completa la salud, educacion, conexiones sociales, ambiente, seguridad, etc. Mientras que la Sustentabilidad se expresa en el pilar que mide capital natural, economico, humano y social.
+
+Es importante revisar así las relaciones entre las dimensiones, considerando que existen patrones no sustentables posibles, donde el bienestar hoy puede estar en peligro de ser mantenido por consumo excesivo o depredasión natural o falta de inversión en capital necesario para el bienestar.
+
+### Dimensiones
+
+Las dimensiones propouestas por este marco teórico se agrupan en los tres pilares mencionados
+
+#### Condiciones Materiales de Vida
+
+- Ingresos y Riqueza: posibilidades de consumo.
+
+- Trabajos e Ingresos: Disponibilidad implica recursos y bienestar.
+
+- Vivienda: Necesidades básicas, seguridad personal, privacidad y espacio personal.
 
 
-OCDE : Hows life
+#### Calidad de Vida
 
-- Ingreso
+- Estado de Salud: permite realizar actividades (incluído trabajar).
 
-- Trabajo
+- Balance trabajo y vida: poder dedicarle tiempo a actividades no remuneradas permite a las personas mantenerse saludables y productivas.
+- Educación y Habilidades: es un gran activo y mejora el estándar de vida de individuos y de la sociedad.
 
-- Vivienda
+- Conexiones Sociales: necesidad básica, además ayuda a lograr otros objetivos importantes, como encontrar trabajo.
 
-- Salud
+- Gobernanza e involucramiento cívico: permite a las personas tener mayor control de sus vidas.
 
-- Balance trabajo y vida 
+- Calidad Ambiental: afecta la salud y posibilidad de las personas de realizar un conjunto de actividades.
 
-- Educacion
+- Seguridad Personal: afecta la salud y posibilidad de las personas de realizar un conjunto de actividades
 
-- Conexiones sociales
+- Bienestar Subjetivo: importante para evaluar si las personas están satisfechas con sus vidas como un todo, y si esto es resultado de circunstancias objetivas u otros factores.
 
-- Gobernanza y participación civil
+#### Sustentabilidad del Bienestar en el Tiempo
 
-- Entorno y medio ambiente
+- Capital Natural.
 
-- Seguridad Personal
+- Capital Económico.
 
-- Bienestar Subjetivo
+- Capital Humano.
+
+- Capital Social.
+
+
+
+## Encuesta Bienestar Social 
+
+Adaptación al caso Chileno
 
 EBS: Encuesta Bienestar Social
