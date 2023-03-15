@@ -1,5 +1,18 @@
 # Bienestar Social
 
+
+- Diferencia del enfoque de pobreza 
+
+    - No carencia, no umbrales, 
+
+    - No necesariamente generar un indice compuesto
+
+- Relacion con Estallido Social
+
+- Instituciones que participan
+
+- Representatividad EBS
+
 En el presente apartado se presentan el marco metodológico de Bienestar Social desarrollado por la OCDE en los informes de Calidad de Vida, además de detallar su reciente implementación en Chile a partir de la Encuesta de Bienestar Social (EBS) la cual se realiza como un anexo a la encuesta CASEN de Pandemia. Destaca de este último los indicadores seleccionados y la decisión de no medir sustentabilidad en la encuesta.
 
 Las ideas principales de estos desarrollos se relacionan con:
@@ -86,6 +99,8 @@ Las dimensiones propouestas por este marco teórico se agrupan en los tres pilar
 
 #### Sustentabilidad del Bienestar en el Tiempo
 
+La medición de la sustentabilidad del bienestar se enfoca en revisar la evolución en el tiempo de diferentes stocks de capital (Económico, Ambiental, Humano y Social) los cuales sostienen las varias dimensiones del bienestar. Además de analizar las decisiones que afectan a estos stocks. 
+
 - Capital Natural.
 
 - Capital Económico.
@@ -94,10 +109,257 @@ Las dimensiones propouestas por este marco teórico se agrupan en los tres pilar
 
 - Capital Social.
 
+Patrones no sustentables de desarrollo pueden reflejar consumos excesivos de recursos de hoy e inversiones inadecuadas, o desbalances en la composición de los variados stocks. Esto implica revisar las condiciones de los sistemas (económicos, social y ecológico) de los cuales son parte los individuos.
 
+## Encuesta Bienestar Social
 
-## Encuesta Bienestar Social 
+La Encuesta de Bienestar Social (EBS) adapta el marco teórico a Chile. Se realizan algunos ajustes para este fin, donde se destacan los conceptos de "Oportunidades" y "Resultados" dentro de cada dimensión. Además, se relaciona más explicitamente el enfoque con los objetivos de desarrollo sostenible (ODS) y un enfoque de Derechos Humanos y de Género más explícito. 
 
-Adaptación al caso Chileno
+En términos específicos, algunos ajustes realizados:
 
-EBS: Encuesta Bienestar Social
+- En la dimension de Ingresos, se mide la suficiencia de estos y la seguridad financiera.
+
+- En empleo, medir aspectos cualitativos asociados a la valoración de trabajadores.
+
+- En vivienda, medir calidad, sensación térmica y calidad del entorno.
+
+- En salud, concentrarse en oportunidades de acceder a prestaciones y medicamentos de forma oportuna.
+
+Ademáse se considera la Estado como un agente movilizador.
+
+Finalmente se omite la medición de sustentabilidad considerando que la medición de los stocks de capital relacionados se relacioinan más a otras instituciones (como el Banco Central entre otras)
+
+### Dimensiones
+
+#### Condiciones Materiales
+
+##### Dimensión Ingresos: 
+Busca evaluar si las personas gozan y disponen de oportunidades que les brinden seguridad económica
+
+- Resultados: gozar de seguridad económica.
+
+    - Tasa de pobreza por ingresos.
+    
+    - Ingreso del Hogar.
+    
+    - Desigualdad GINI.
+    
+    - Suficiencia de Ingresos.
+    
+    - Cobertura del endeudamiento.
+    
+- Oportunidades: disponer de oportunidades para gozar de seguridad económica.
+
+    - Capacidad para cubrir cuentas básicas.
+    
+    - Estrategias ante shocks de ingresos.
+    
+##### Dimensión Trabajo: 
+
+Busca evaluar si las personas cuentan y disponen de oportunidades para un empleo que les permita el desarrollo personal.
+
+- Resultados: contar con un empleo que permita el desarrollo personal.
+
+    - Situación de Ocupación.
+    
+    - Situación de desempleo de largo plazo.
+    
+    - Situación Contractual.
+    
+    - Jornada.
+    
+    - Valoración de los aspectos de calidad del empleo.
+    
+    - Percepción de empleabilidad.
+    
+- Oportunidades:
+
+    - Capacidades habilitadas por el empleo.
+
+##### Dimensión Vivienda: 
+
+Busca evaluar si las personas disponen de una vivienda en buenas condiciones, así como si disponen de acceso a equipamiento básico del hogar y servicios básicos del entorno.
+
+- Resultados: disponer de una vivienda en buenas condiciones.
+
+    - Tipo y tenencia de la vivienda.
+    
+    - Tasa de hacinamiento.
+    
+    - Materialidad y estado de conservación.
+    
+    - Problemas de calidad de la vivienda.
+    
+    - Sensación de confort térmico.
+    
+- Oportunidades: acceso a servicios básicos para la vivienda y el entorno.
+
+    - Acceso a instalaciones sanitarias básicas.
+    
+    - Acceso a internet.
+    
+    - Acceso a combustibles para calefacción,
+    
+    - Acceso a servicios básicos
+    
+
+#### Calidad de Vida
+
+##### Dimensión Salud: 
+
+Evaluar si las personas gozan y tienen oportunidades para disponer de buena salud.
+
+- Resultados: Gozar de buena salud.
+
+    - Prestaciones de salud.
+    
+    - Dificultades en la vida diaria.
+    
+    - Dependencia.
+    
+    - Auto reporte de estado de salud.
+    
+    - Sobrepeso y obesidad.
+    
+    - Estado de salud mental: ansiedad y depresión (PHQ4).
+    
+- Oportunidades:
+
+    - Inseguridad alimentaria.
+    
+    - Capacidades habilitadas por el estado de salud.
+    
+    - Acceso a atenciones de salud.
+    
+    - Acceso a medicamentos.
+    
+    - Percepción de inseguridad financiera.
+    
+##### Dimensión Balance Vida y Trabajo: 
+
+Evaluar si las personas logran conciliar el uso del tiempo y disponen de autonomía para decidir sobre el uso del tiempo en su vida cotidiana 
+
+- Resultados: Conciliar el uso del tiempo en la vida cotidiana.
+
+    - Distribución del tiempo en la vida cotidiana.
+    
+    - Satisfacción con la distribución del tiempo en la vida cotidiana.
+    
+    - Dobre presencia.
+    
+- Oportunidades: Autonomía para decidir sobre el uso del tiempo en la vida cotidiana.
+
+    - Flexibilidad en el trabajo para balancear trabajo y familia.
+    
+    - Acceso a cuidado NNA (Estado, mercado empleador, familia y amigos).
+    
+##### Dimensión Educación: 
+
+Evaluar si las personas tienen educación y si disponen de oportunidades para educarse.
+
+- Resultados: Ser educado.
+
+    - Nivel educacional.
+    
+    - Interés en seguir estudiando.
+    
+- Oportunidades: 
+
+    - Capacidades habilitadas por el nivel educacional.
+    
+    - Posibilidad de educarse.
+    
+    - Barreras para continuar estudiando.
+    
+##### Dimensión Relaciones Sociales: 
+
+Evaluar si las personas son parte y tienen oportunidades para establecer relaciones sociales, y si disponen de confianza en la posición que ocupan en la sociedad.
+
+- Resultados: Ser parte de relaciones sociales y tener confianza en la posición que se ocupa en la sociedad.
+
+    - Tamaño y calidad de la red.
+    
+    - Confianza en otros.
+    
+    - Experiencia de malos tratos.
+    
+    - Lugar de experiencia de malos tratos.
+    
+    - Razón de malos tratos.
+    
+- Oportunidades: Oportunidades para establecer relaciones sociales, ser reconocido y respetado en la sociedad.
+    
+    - Heterogeneidad de la red.
+    
+    - Soporte de redes sociales.
+    
+##### Dimensión Compromiso Cívico y Gobernanza: 
+
+Evaluar si las personas participan políticamente, confían en las instituciones y tienen las oportunidades para incidir en decisiones comunitarias
+
+- Resultados: Participación política y confianza en las instituciones.
+
+    - Confianza en las instituciones.
+    
+    - Participación social.
+    
+    - Participación en acciones políticas.
+    
+- Oportunidades: Oportunidades de participación y para incidir en decisiones comunitarias.
+
+    - Barreras para participar en organizaciones.
+    
+    - Nivel de participación en las decisiones de la comunidad/país.
+    
+##### Dimensión Calidad Medioambiental: 
+
+Evaluar si las personas disfrutan y tienen oportunidades para gozar de un entorno libre de contaminación ambiental.
+
+- Resultados: Gozar de un entorno libre de contaminación ambiental.
+
+    - Frecuencia de acceso a áreas verdes.
+    
+    - Evaluación de la calidad ambiental de la comunidad o localidad.
+    
+    - Exposición a problemas ambientales en la vida diaria.
+    
+- Oportunidades: 
+
+    - Capacidades limitadas por la calidad del medio ambiente
+    
+##### Dimensión Seguridad Física: 
+
+Evaluar si las personas viven y tienen oportunidades para vivir en un entorno seguro para el desarrollo de las actividades diarias.
+
+- Resultados: 
+
+    - Victimización auto reportada por robos y asaltos.
+    
+    - Riesgo de sufrir acoso sexual callejero.
+    
+    - Percepción de Seguridad.
+    
+- Oportunidades:
+
+    - Entorno inseguro.
+    
+    - Capacidades limitadas por la seguridad.
+    
+    - Acceso a mecanismos sociales de protección y seguridad.
+    
+##### Dimensión Bienestar Subjetivo: 
+
+Evaluar si las personas gozan de una evaluación positiva respecto a sus propias vidas, disponer del balance emocional que experimentan en un momento del tiempo.
+
+- Resultados:
+
+    - Satisfacción de la vida en general
+    
+    - Balance emocional o afetivo
+    
+    - Emociones positivas
+    
+    - Emociones negativas
+    
+    - Satisfacción de la vida por área
+    
