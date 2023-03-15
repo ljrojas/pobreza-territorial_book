@@ -1,19 +1,8 @@
 # Bienestar Social
 
-
-- Diferencia del enfoque de pobreza 
-
-    - No carencia, no umbrales, 
-
-    - No necesariamente generar un indice compuesto
-
-- Relacion con Estallido Social
-
-- Instituciones que participan
-
-- Representatividad EBS
-
 En el presente apartado se presentan el marco metodológico de Bienestar Social desarrollado por la OCDE en los informes de Calidad de Vida, además de detallar su reciente implementación en Chile a partir de la Encuesta de Bienestar Social (EBS) la cual se realiza como un anexo a la encuesta CASEN de Pandemia. Destaca de este último los indicadores seleccionados y la decisión de no medir sustentabilidad en la encuesta.
+
+Esta mirada del bienestar es complementaria al análisis de pobreza. Esta última se destaca por definir carencias y umbrales aceptables de estas, cosa de identificar aquellas personas y hogares cuya situación es precaria. En cambio, el enfoque de bienestar social está fuertemente influenciado por las capacidades de Sen y por cuantificar las distintas expresiones de logros que las personas tienen en la sociedad. Es así que incorpora elementos objetivos y subjetivos, además de conexión y participación social, con elementos de bienestar material y salud.
 
 Las ideas principales de estos desarrollos se relacionan con:
 
@@ -22,6 +11,8 @@ Las ideas principales de estos desarrollos se relacionan con:
 - Enfoque de Capacidades de Amartya Sen
 
 - Preocupación por la Sustentabilidad del Bienestar
+
+Este enfoque metodológico es interesante por presentar una visión validada internacionalmente y por más de 10 años de trabajo de parte de los informes publicados por OECD. Presenta un esfuerzo por consolidar visiones y ampliar la visión y las medidas para cuantificar el bienestar de la población. 
 
 ## Motivación
 
