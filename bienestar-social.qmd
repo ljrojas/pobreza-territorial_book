@@ -6,13 +6,15 @@ Esta mirada del bienestar es complementaria al análisis de pobreza. Esta últim
 
 Las ideas principales de estos desarrollos se relacionan con:
 
-- las Limitantes del PIB como indicador de progreso social
+- Limitantes del PIB como indicador de progreso social
 
 - Enfoque de Capacidades de Amartya Sen
 
 - Preocupación por la Sustentabilidad del Bienestar
 
 Este enfoque metodológico es interesante por presentar una visión validada internacionalmente y por más de 10 años de trabajo de parte de los informes publicados por OECD. Presenta un esfuerzo por consolidar visiones y ampliar la visión y las medidas para cuantificar el bienestar de la población. 
+
+La disponibilidad de la Encuesta a representatividad Regional presenta interesantes oportunidades de investigación, vinculación de datos, uso de técnicas de estimación de área pequeña y la posibilidad de "calibrar" modelos comparando otros enfoques de análisis del bienestar.
 
 ## Motivación
 
